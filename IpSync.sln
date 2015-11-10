@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "IpSync.WinServicePy", "IpSync.WinServicePy\IpSync.WinServicePy.pyproj", "{9E84DA3F-9840-4421-A43A-2727CFEB430E}"
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "IpSync.ServerPy", "IpSync.WinServicePy\IpSync.ServerPy.pyproj", "{9E84DA3F-9840-4421-A43A-2727CFEB430E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IpSync.Client", "IpSync.Client\IpSync.Client.csproj", "{7F4AECDF-8D2E-49C0-B683-D2CD6F71FBDE}"
 EndProject
