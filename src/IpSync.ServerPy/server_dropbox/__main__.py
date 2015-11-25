@@ -6,6 +6,7 @@ from json import load
 from urllib2 import urlopen, HTTPError
 from datetime import datetime
 import thread
+from threading import Thread
 import socket
 import time
 
@@ -48,7 +49,7 @@ def sync_ip(delay):
     global my_ip
     while True:
         new_ip = query_ip()
-        if my_ip is new_ip:
+        if my_ip == new_ip:
             time.sleep(delay)
             continue 
         my_ip = new_ip
@@ -63,7 +64,7 @@ def sync_ip(delay):
 def main():
     import argparse
     global dropbox_path, ips_folder
-    delay = 30
+    delay = 3
     parser = argparse.ArgumentParser()
     parser.add_argument('-f', '--folder', help='The folder path of the dropbox.')
     parser.add_argument('-d', '--delay',type=int, help='The time interval to fetch ip.(seconds)')
@@ -75,9 +76,11 @@ def main():
         delay = args.delay
 
     init()
-    #Timer(interval,sync_ip).start()
-    thread.start_new_thread(sync_ip, (delay,))
+    # Timer(interval,sync_ip).start()
+    # thread.start_new_thread(sync_ip, (delay,))
+    #Thread(target=sync_ip, args=(delay,)).start()
     log('starting...')
+    sync_ip(delay);
 
 
 if __name__ == '__main__':
