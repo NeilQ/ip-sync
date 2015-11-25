@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IpSync.Client", "IpSync.Client\IpSync.Client.csproj", "{7F4AECDF-8D2E-49C0-B683-D2CD6F71FBDE}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "IpSync.ServerPy", "IpSync.ServerPy\IpSync.ServerPy.pyproj", "{6F6ADF44-1F12-4ACB-B085-6BD36420DF6A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F4AECDF-8D2E-49C0-B683-D2CD6F71FBDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F4AECDF-8D2E-49C0-B683-D2CD6F71FBDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F4AECDF-8D2E-49C0-B683-D2CD6F71FBDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F4AECDF-8D2E-49C0-B683-D2CD6F71FBDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F6ADF44-1F12-4ACB-B085-6BD36420DF6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F6ADF44-1F12-4ACB-B085-6BD36420DF6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

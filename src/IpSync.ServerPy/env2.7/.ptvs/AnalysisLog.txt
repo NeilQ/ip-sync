@@ -1,0 +1,1007 @@
+﻿
+2015-11-25T11:12:04: Start analysis
+2015-11-25T11:12:04: [WARNING] Library was set explicitly - skipping path detection
+2015-11-25T11:12:04: IncludeModulesFromModulePath = win32com
+2015-11-25T11:12:04: Deleting 0 files
+2015-11-25T11:12:04: Scraping builtin modules
+2015-11-25T11:12:04: Command: F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Scripts\python.exe "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\PythonScraper.py" F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\.ptvs\ "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\\"
+2015-11-25T11:12:05: Output
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\__builtin__.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_codecs.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_collections.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_functools.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_heapq.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_io.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_locale.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_md5.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_random.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_sha.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_sha256.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_sha512.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_sre.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_struct.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_subprocess.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_warnings.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_weakref.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_winreg.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\array.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\binascii.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\cPickle.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\cStringIO.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\cmath.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\datetime.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\errno.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\exceptions.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\future_builtins.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\gc.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\imp.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\itertools.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\marshal.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\math.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\mmap.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\msvcrt.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\nt.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\operator.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\signal.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\sys.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\thread.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\time.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\xxsubtype.idb
+2015-11-25T11:12:05: Scraped builtin modules
+2015-11-25T11:12:05: astropy.CallDepth = 0
+2015-11-25T11:12:05: matplotlib.CallDepth = 3
+2015-11-25T11:12:05: pandas.CallDepth = 0
+2015-11-25T11:12:05: sympy.CallDepth = 0
+2015-11-25T11:12:05: Start group "F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib" with 143 files
+2015-11-25T11:12:06: Parsing "abc" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\abc.py")
+2015-11-25T11:12:06: Parsing "codecs" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\codecs.py")
+2015-11-25T11:12:06: Parsing "copy_reg" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\copy_reg.py")
+2015-11-25T11:12:06: Parsing "fnmatch" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\fnmatch.py")
+2015-11-25T11:12:06: Parsing "genericpath" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\genericpath.py")
+2015-11-25T11:12:06: Parsing "linecache" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\linecache.py")
+2015-11-25T11:12:06: Parsing "locale" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\locale.py")
+2015-11-25T11:12:06: Parsing "ntpath" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\ntpath.py")
+2015-11-25T11:12:06: Parsing "os" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\os.py")
+2015-11-25T11:12:06: Parsing "posixpath" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\posixpath.py")
+2015-11-25T11:12:06: Parsing "re" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\re.py")
+2015-11-25T11:12:06: Parsing "site" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site.py")
+2015-11-25T11:12:06: Parsing "sre" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\sre.py")
+2015-11-25T11:12:06: Parsing "sre_compile" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\sre_compile.py")
+2015-11-25T11:12:06: Parsing "sre_constants" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\sre_constants.py")
+2015-11-25T11:12:06: Parsing "sre_parse" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\sre_parse.py")
+2015-11-25T11:12:06: Parsing "stat" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\stat.py")
+2015-11-25T11:12:06: Parsing "types" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\types.py")
+2015-11-25T11:12:06: Parsing "UserDict" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\UserDict.py")
+2015-11-25T11:12:06: Parsing "warnings" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\warnings.py")
+2015-11-25T11:12:06: Parsing "_abcoll" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\_abcoll.py")
+2015-11-25T11:12:06: Parsing "_weakrefset" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\_weakrefset.py")
+2015-11-25T11:12:06: Parsing "distutils" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\distutils\__init__.py")
+2015-11-25T11:12:06: Parsing "encodings.aliases" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\encodings\aliases.py")
+2015-11-25T11:12:06: Parsing "encodings.ascii" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\encodings\ascii.py")
+2015-11-25T11:12:06: Parsing "encodings.base64_codec" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\encodings\base64_codec.py")
+2015-11-25T11:12:06: Parsing "encodings.big5" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\encodings\big5.py")
+2015-11-25T11:12:06: Parsing "encodings.big5hkscs" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\encodings\big5hkscs.py")
+2015-11-25T11:12:06: Parsing "encodings.bz2_codec" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\encodings\bz2_codec.py")
+2015-11-25T11:12:06: Parsing "encodings.charmap" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\encodings\charmap.py")
+2015-11-25T11:12:06: Parsing "encodings.cp037" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\encodings\cp037.py")
+2015-11-25T11:12:06: Parsing "encodings.cp1006" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\encodings\cp1006.py")
+2015-11-25T11:12:06: Parsing "encodings.cp1026" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\encodings\cp1026.py")
+2015-11-25T11:12:06: Parsing "encodings.cp1140" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\encodings\cp1140.py")
+2015-11-25T11:12:06: Parsing "encodings.cp1250" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\encodings\cp1250.py")
+2015-11-25T11:12:06: Parsing "encodings.cp1251" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\encodings\cp1251.py")
+2015-11-25T11:12:06: Parsing "encodings.cp1252" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\encodings\cp1252.py")
+2015-11-25T11:12:06: Parsing "encodings.cp1253" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\encodings\cp1253.py")
+2015-11-25T11:12:06: Parsing "encodings.cp1254" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\encodings\cp1254.py")
+2015-11-25T11:12:06: Parsing "encodings.cp1255" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\encodings\cp1255.py")
+2015-11-25T11:12:06: Parsing "encodings.cp1256" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\encodings\cp1256.py")
+2015-11-25T11:12:06: Parsing "encodings.cp1257" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\encodings\cp1257.py")
+2015-11-25T11:12:06: Parsing "encodings.cp1258" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\encodings\cp1258.py")
+2015-11-25T11:12:06: Parsing "encodings.cp424" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\encodings\cp424.py")
+2015-11-25T11:12:06: Parsing "encodings.cp437" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\encodings\cp437.py")
+2015-11-25T11:12:06: Parsing "encodings.cp500" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\encodings\cp500.py")
+2015-11-25T11:12:06: Parsing "encodings.cp720" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\encodings\cp720.py")
+2015-11-25T11:12:06: Parsing "encodings.cp737" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\encodings\cp737.py")
+2015-11-25T11:12:06: Parsing "encodings.cp775" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\encodings\cp775.py")
+2015-11-25T11:12:06: Parsing "encodings.cp850" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\encodings\cp850.py")
+2015-11-25T11:12:06: Parsing "encodings.cp852" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\encodings\cp852.py")
+2015-11-25T11:12:06: Parsing "encodings.cp855" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\encodings\cp855.py")
+2015-11-25T11:12:06: Parsing "encodings.cp856" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\encodings\cp856.py")
+2015-11-25T11:12:06: Parsing "encodings.cp857" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\encodings\cp857.py")
+2015-11-25T11:12:06: Parsing "encodings.cp858" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\encodings\cp858.py")
+2015-11-25T11:12:06: Parsing "encodings.cp860" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\encodings\cp860.py")
+2015-11-25T11:12:06: Parsing "encodings.cp861" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\encodings\cp861.py")
+2015-11-25T11:12:06: Parsing "encodings.cp862" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\encodings\cp862.py")
+2015-11-25T11:12:06: Parsing "encodings.cp863" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\encodings\cp863.py")
+2015-11-25T11:12:06: Parsing "encodings.cp864" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\encodings\cp864.py")
+2015-11-25T11:12:06: Parsing "encodings.cp865" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\encodings\cp865.py")
+2015-11-25T11:12:06: Parsing "encodings.cp866" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\encodings\cp866.py")
+2015-11-25T11:12:06: Parsing "encodings.cp869" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\encodings\cp869.py")
+2015-11-25T11:12:06: Parsing "encodings.cp874" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\encodings\cp874.py")
+2015-11-25T11:12:06: Parsing "encodings.cp875" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\encodings\cp875.py")
+2015-11-25T11:12:06: Parsing "encodings.cp932" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\encodings\cp932.py")
+2015-11-25T11:12:06: Parsing "encodings.cp949" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\encodings\cp949.py")
+2015-11-25T11:12:06: Parsing "encodings.cp950" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\encodings\cp950.py")
+2015-11-25T11:12:06: Parsing "encodings.euc_jisx0213" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\encodings\euc_jisx0213.py")
+2015-11-25T11:12:06: Parsing "encodings.euc_jis_2004" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\encodings\euc_jis_2004.py")
+2015-11-25T11:12:06: Parsing "encodings.euc_jp" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\encodings\euc_jp.py")
+2015-11-25T11:12:06: Parsing "encodings.euc_kr" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\encodings\euc_kr.py")
+2015-11-25T11:12:06: Parsing "encodings.gb18030" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\encodings\gb18030.py")
+2015-11-25T11:12:06: Parsing "encodings.gb2312" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\encodings\gb2312.py")
+2015-11-25T11:12:06: Parsing "encodings.gbk" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\encodings\gbk.py")
+2015-11-25T11:12:06: Parsing "encodings.hex_codec" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\encodings\hex_codec.py")
+2015-11-25T11:12:06: Parsing "encodings.hp_roman8" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\encodings\hp_roman8.py")
+2015-11-25T11:12:06: Parsing "encodings.hz" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\encodings\hz.py")
+2015-11-25T11:12:06: Parsing "encodings.idna" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\encodings\idna.py")
+2015-11-25T11:12:06: Parsing "encodings.iso2022_jp" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\encodings\iso2022_jp.py")
+2015-11-25T11:12:06: Parsing "encodings.iso2022_jp_1" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\encodings\iso2022_jp_1.py")
+2015-11-25T11:12:06: Parsing "encodings.iso2022_jp_2" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\encodings\iso2022_jp_2.py")
+2015-11-25T11:12:06: Parsing "encodings.iso2022_jp_2004" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\encodings\iso2022_jp_2004.py")
+2015-11-25T11:12:06: Parsing "encodings.iso2022_jp_3" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\encodings\iso2022_jp_3.py")
+2015-11-25T11:12:06: Parsing "encodings.iso2022_jp_ext" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\encodings\iso2022_jp_ext.py")
+2015-11-25T11:12:06: Parsing "encodings.iso2022_kr" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\encodings\iso2022_kr.py")
+2015-11-25T11:12:06: Parsing "encodings.iso8859_1" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\encodings\iso8859_1.py")
+2015-11-25T11:12:06: Parsing "encodings.iso8859_10" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\encodings\iso8859_10.py")
+2015-11-25T11:12:06: Parsing "encodings.iso8859_11" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\encodings\iso8859_11.py")
+2015-11-25T11:12:06: Parsing "encodings.iso8859_13" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\encodings\iso8859_13.py")
+2015-11-25T11:12:06: Parsing "encodings.iso8859_14" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\encodings\iso8859_14.py")
+2015-11-25T11:12:06: Parsing "encodings.iso8859_15" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\encodings\iso8859_15.py")
+2015-11-25T11:12:06: Parsing "encodings.iso8859_16" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\encodings\iso8859_16.py")
+2015-11-25T11:12:06: Parsing "encodings.iso8859_2" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\encodings\iso8859_2.py")
+2015-11-25T11:12:06: Parsing "encodings.iso8859_3" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\encodings\iso8859_3.py")
+2015-11-25T11:12:06: Parsing "encodings.iso8859_4" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\encodings\iso8859_4.py")
+2015-11-25T11:12:06: Parsing "encodings.iso8859_5" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\encodings\iso8859_5.py")
+2015-11-25T11:12:06: Parsing "encodings.iso8859_6" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\encodings\iso8859_6.py")
+2015-11-25T11:12:06: Parsing "encodings.iso8859_7" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\encodings\iso8859_7.py")
+2015-11-25T11:12:06: Parsing "encodings.iso8859_8" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\encodings\iso8859_8.py")
+2015-11-25T11:12:06: Parsing "encodings.iso8859_9" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\encodings\iso8859_9.py")
+2015-11-25T11:12:06: Parsing "encodings.johab" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\encodings\johab.py")
+2015-11-25T11:12:06: Parsing "encodings.koi8_r" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\encodings\koi8_r.py")
+2015-11-25T11:12:06: Parsing "encodings.koi8_u" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\encodings\koi8_u.py")
+2015-11-25T11:12:06: Parsing "encodings.latin_1" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\encodings\latin_1.py")
+2015-11-25T11:12:06: Parsing "encodings.mac_arabic" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\encodings\mac_arabic.py")
+2015-11-25T11:12:06: Parsing "encodings.mac_centeuro" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\encodings\mac_centeuro.py")
+2015-11-25T11:12:06: Parsing "encodings.mac_croatian" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\encodings\mac_croatian.py")
+2015-11-25T11:12:06: Parsing "encodings.mac_cyrillic" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\encodings\mac_cyrillic.py")
+2015-11-25T11:12:06: Parsing "encodings.mac_farsi" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\encodings\mac_farsi.py")
+2015-11-25T11:12:06: Parsing "encodings.mac_greek" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\encodings\mac_greek.py")
+2015-11-25T11:12:06: Parsing "encodings.mac_iceland" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\encodings\mac_iceland.py")
+2015-11-25T11:12:06: Parsing "encodings.mac_latin2" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\encodings\mac_latin2.py")
+2015-11-25T11:12:06: Parsing "encodings.mac_roman" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\encodings\mac_roman.py")
+2015-11-25T11:12:06: Parsing "encodings.mac_romanian" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\encodings\mac_romanian.py")
+2015-11-25T11:12:06: Parsing "encodings.mac_turkish" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\encodings\mac_turkish.py")
+2015-11-25T11:12:06: Parsing "encodings.mbcs" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\encodings\mbcs.py")
+2015-11-25T11:12:06: Parsing "encodings.palmos" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\encodings\palmos.py")
+2015-11-25T11:12:06: Parsing "encodings.ptcp154" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\encodings\ptcp154.py")
+2015-11-25T11:12:06: Parsing "encodings.punycode" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\encodings\punycode.py")
+2015-11-25T11:12:06: Parsing "encodings.quopri_codec" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\encodings\quopri_codec.py")
+2015-11-25T11:12:06: Parsing "encodings.raw_unicode_escape" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\encodings\raw_unicode_escape.py")
+2015-11-25T11:12:06: Parsing "encodings.rot_13" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\encodings\rot_13.py")
+2015-11-25T11:12:06: Parsing "encodings.shift_jis" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\encodings\shift_jis.py")
+2015-11-25T11:12:06: Parsing "encodings.shift_jisx0213" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\encodings\shift_jisx0213.py")
+2015-11-25T11:12:06: Parsing "encodings.shift_jis_2004" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\encodings\shift_jis_2004.py")
+2015-11-25T11:12:06: Parsing "encodings.string_escape" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\encodings\string_escape.py")
+2015-11-25T11:12:06: Parsing "encodings.tis_620" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\encodings\tis_620.py")
+2015-11-25T11:12:06: Parsing "encodings.undefined" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\encodings\undefined.py")
+2015-11-25T11:12:06: Parsing "encodings.unicode_escape" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\encodings\unicode_escape.py")
+2015-11-25T11:12:06: Parsing "encodings.unicode_internal" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\encodings\unicode_internal.py")
+2015-11-25T11:12:06: Parsing "encodings.utf_16" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\encodings\utf_16.py")
+2015-11-25T11:12:07: Parsing "encodings.utf_16_be" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\encodings\utf_16_be.py")
+2015-11-25T11:12:07: Parsing "encodings.utf_16_le" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\encodings\utf_16_le.py")
+2015-11-25T11:12:07: Parsing "encodings.utf_32" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\encodings\utf_32.py")
+2015-11-25T11:12:07: Parsing "encodings.utf_32_be" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\encodings\utf_32_be.py")
+2015-11-25T11:12:07: Parsing "encodings.utf_32_le" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\encodings\utf_32_le.py")
+2015-11-25T11:12:07: Parsing "encodings.utf_7" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\encodings\utf_7.py")
+2015-11-25T11:12:07: Parsing "encodings.utf_8" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\encodings\utf_8.py")
+2015-11-25T11:12:07: Parsing "encodings.utf_8_sig" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\encodings\utf_8_sig.py")
+2015-11-25T11:12:07: Parsing "encodings.uu_codec" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\encodings\uu_codec.py")
+2015-11-25T11:12:07: Parsing "encodings.zlib_codec" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\encodings\zlib_codec.py")
+2015-11-25T11:12:07: Parsing "encodings" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\encodings\__init__.py")
+2015-11-25T11:12:07: Parsing complete
+2015-11-25T11:12:07: Analyzing "abc"
+2015-11-25T11:12:07: Analyzing "codecs"
+2015-11-25T11:12:07: Analyzing "copy_reg"
+2015-11-25T11:12:07: Analyzing "fnmatch"
+2015-11-25T11:12:07: Analyzing "genericpath"
+2015-11-25T11:12:07: Analyzing "linecache"
+2015-11-25T11:12:07: Analyzing "locale"
+2015-11-25T11:12:07: Analyzing "ntpath"
+2015-11-25T11:12:07: Analyzing "os"
+2015-11-25T11:12:07: Analyzing "posixpath"
+2015-11-25T11:12:07: Analyzing "re"
+2015-11-25T11:12:07: Analyzing "site"
+2015-11-25T11:12:07: Analyzing "sre"
+2015-11-25T11:12:07: Analyzing "sre_compile"
+2015-11-25T11:12:07: Analyzing "sre_constants"
+2015-11-25T11:12:07: Analyzing "sre_parse"
+2015-11-25T11:12:07: Analyzing "stat"
+2015-11-25T11:12:07: Analyzing "types"
+2015-11-25T11:12:07: Analyzing "UserDict"
+2015-11-25T11:12:07: Analyzing "warnings"
+2015-11-25T11:12:07: Analyzing "_abcoll"
+2015-11-25T11:12:07: Analyzing "_weakrefset"
+2015-11-25T11:12:07: Analyzing "distutils"
+2015-11-25T11:12:07: Analyzing "encodings.aliases"
+2015-11-25T11:12:07: Analyzing "encodings.ascii"
+2015-11-25T11:12:07: Analyzing "encodings.base64_codec"
+2015-11-25T11:12:07: Analyzing "encodings.big5"
+2015-11-25T11:12:07: Analyzing "encodings.big5hkscs"
+2015-11-25T11:12:07: Analyzing "encodings.bz2_codec"
+2015-11-25T11:12:07: Analyzing "encodings.charmap"
+2015-11-25T11:12:07: Analyzing "encodings.cp037"
+2015-11-25T11:12:07: Analyzing "encodings.cp1006"
+2015-11-25T11:12:07: Analyzing "encodings.cp1026"
+2015-11-25T11:12:07: Analyzing "encodings.cp1140"
+2015-11-25T11:12:07: Analyzing "encodings.cp1250"
+2015-11-25T11:12:07: Analyzing "encodings.cp1251"
+2015-11-25T11:12:07: Analyzing "encodings.cp1252"
+2015-11-25T11:12:07: Analyzing "encodings.cp1253"
+2015-11-25T11:12:07: Analyzing "encodings.cp1254"
+2015-11-25T11:12:07: Analyzing "encodings.cp1255"
+2015-11-25T11:12:07: Analyzing "encodings.cp1256"
+2015-11-25T11:12:07: Analyzing "encodings.cp1257"
+2015-11-25T11:12:07: Analyzing "encodings.cp1258"
+2015-11-25T11:12:07: Analyzing "encodings.cp424"
+2015-11-25T11:12:07: Analyzing "encodings.cp437"
+2015-11-25T11:12:07: Analyzing "encodings.cp500"
+2015-11-25T11:12:07: Analyzing "encodings.cp720"
+2015-11-25T11:12:07: Analyzing "encodings.cp737"
+2015-11-25T11:12:07: Analyzing "encodings.cp775"
+2015-11-25T11:12:07: Analyzing "encodings.cp850"
+2015-11-25T11:12:07: Analyzing "encodings.cp852"
+2015-11-25T11:12:07: Analyzing "encodings.cp855"
+2015-11-25T11:12:07: Analyzing "encodings.cp856"
+2015-11-25T11:12:07: Analyzing "encodings.cp857"
+2015-11-25T11:12:07: Analyzing "encodings.cp858"
+2015-11-25T11:12:07: Analyzing "encodings.cp860"
+2015-11-25T11:12:07: Analyzing "encodings.cp861"
+2015-11-25T11:12:07: Analyzing "encodings.cp862"
+2015-11-25T11:12:07: Analyzing "encodings.cp863"
+2015-11-25T11:12:07: Analyzing "encodings.cp864"
+2015-11-25T11:12:07: Analyzing "encodings.cp865"
+2015-11-25T11:12:07: Analyzing "encodings.cp866"
+2015-11-25T11:12:07: Analyzing "encodings.cp869"
+2015-11-25T11:12:07: Analyzing "encodings.cp874"
+2015-11-25T11:12:07: Analyzing "encodings.cp875"
+2015-11-25T11:12:07: Analyzing "encodings.cp932"
+2015-11-25T11:12:07: Analyzing "encodings.cp949"
+2015-11-25T11:12:07: Analyzing "encodings.cp950"
+2015-11-25T11:12:07: Analyzing "encodings.euc_jisx0213"
+2015-11-25T11:12:07: Analyzing "encodings.euc_jis_2004"
+2015-11-25T11:12:07: Analyzing "encodings.euc_jp"
+2015-11-25T11:12:07: Analyzing "encodings.euc_kr"
+2015-11-25T11:12:07: Analyzing "encodings.gb18030"
+2015-11-25T11:12:07: Analyzing "encodings.gb2312"
+2015-11-25T11:12:07: Analyzing "encodings.gbk"
+2015-11-25T11:12:07: Analyzing "encodings.hex_codec"
+2015-11-25T11:12:07: Analyzing "encodings.hp_roman8"
+2015-11-25T11:12:07: Analyzing "encodings.hz"
+2015-11-25T11:12:07: Analyzing "encodings.idna"
+2015-11-25T11:12:07: Analyzing "encodings.iso2022_jp"
+2015-11-25T11:12:07: Analyzing "encodings.iso2022_jp_1"
+2015-11-25T11:12:07: Analyzing "encodings.iso2022_jp_2"
+2015-11-25T11:12:07: Analyzing "encodings.iso2022_jp_2004"
+2015-11-25T11:12:07: Analyzing "encodings.iso2022_jp_3"
+2015-11-25T11:12:07: Analyzing "encodings.iso2022_jp_ext"
+2015-11-25T11:12:07: Analyzing "encodings.iso2022_kr"
+2015-11-25T11:12:07: Analyzing "encodings.iso8859_1"
+2015-11-25T11:12:07: Analyzing "encodings.iso8859_10"
+2015-11-25T11:12:07: Analyzing "encodings.iso8859_11"
+2015-11-25T11:12:07: Analyzing "encodings.iso8859_13"
+2015-11-25T11:12:07: Analyzing "encodings.iso8859_14"
+2015-11-25T11:12:07: Analyzing "encodings.iso8859_15"
+2015-11-25T11:12:07: Analyzing "encodings.iso8859_16"
+2015-11-25T11:12:07: Analyzing "encodings.iso8859_2"
+2015-11-25T11:12:07: Analyzing "encodings.iso8859_3"
+2015-11-25T11:12:07: Analyzing "encodings.iso8859_4"
+2015-11-25T11:12:07: Analyzing "encodings.iso8859_5"
+2015-11-25T11:12:07: Analyzing "encodings.iso8859_6"
+2015-11-25T11:12:07: Analyzing "encodings.iso8859_7"
+2015-11-25T11:12:07: Analyzing "encodings.iso8859_8"
+2015-11-25T11:12:07: Analyzing "encodings.iso8859_9"
+2015-11-25T11:12:07: Analyzing "encodings.johab"
+2015-11-25T11:12:07: Analyzing "encodings.koi8_r"
+2015-11-25T11:12:07: Analyzing "encodings.koi8_u"
+2015-11-25T11:12:07: Analyzing "encodings.latin_1"
+2015-11-25T11:12:07: Analyzing "encodings.mac_arabic"
+2015-11-25T11:12:07: Analyzing "encodings.mac_centeuro"
+2015-11-25T11:12:07: Analyzing "encodings.mac_croatian"
+2015-11-25T11:12:07: Analyzing "encodings.mac_cyrillic"
+2015-11-25T11:12:07: Analyzing "encodings.mac_farsi"
+2015-11-25T11:12:07: Analyzing "encodings.mac_greek"
+2015-11-25T11:12:07: Analyzing "encodings.mac_iceland"
+2015-11-25T11:12:07: Analyzing "encodings.mac_latin2"
+2015-11-25T11:12:07: Analyzing "encodings.mac_roman"
+2015-11-25T11:12:07: Analyzing "encodings.mac_romanian"
+2015-11-25T11:12:07: Analyzing "encodings.mac_turkish"
+2015-11-25T11:12:07: Analyzing "encodings.mbcs"
+2015-11-25T11:12:07: Analyzing "encodings.palmos"
+2015-11-25T11:12:07: Analyzing "encodings.ptcp154"
+2015-11-25T11:12:07: Analyzing "encodings.punycode"
+2015-11-25T11:12:07: Analyzing "encodings.quopri_codec"
+2015-11-25T11:12:07: Analyzing "encodings.raw_unicode_escape"
+2015-11-25T11:12:07: Analyzing "encodings.rot_13"
+2015-11-25T11:12:07: Analyzing "encodings.shift_jis"
+2015-11-25T11:12:07: Analyzing "encodings.shift_jisx0213"
+2015-11-25T11:12:07: Analyzing "encodings.shift_jis_2004"
+2015-11-25T11:12:07: Analyzing "encodings.string_escape"
+2015-11-25T11:12:07: Analyzing "encodings.tis_620"
+2015-11-25T11:12:07: Analyzing "encodings.undefined"
+2015-11-25T11:12:07: Analyzing "encodings.unicode_escape"
+2015-11-25T11:12:07: Analyzing "encodings.unicode_internal"
+2015-11-25T11:12:07: Analyzing "encodings.utf_16"
+2015-11-25T11:12:07: Analyzing "encodings.utf_16_be"
+2015-11-25T11:12:07: Analyzing "encodings.utf_16_le"
+2015-11-25T11:12:07: Analyzing "encodings.utf_32"
+2015-11-25T11:12:07: Analyzing "encodings.utf_32_be"
+2015-11-25T11:12:07: Analyzing "encodings.utf_32_le"
+2015-11-25T11:12:07: Analyzing "encodings.utf_7"
+2015-11-25T11:12:07: Analyzing "encodings.utf_8"
+2015-11-25T11:12:07: Analyzing "encodings.utf_8_sig"
+2015-11-25T11:12:07: Analyzing "encodings.uu_codec"
+2015-11-25T11:12:07: Analyzing "encodings.zlib_codec"
+2015-11-25T11:12:07: Analyzing "encodings"
+2015-11-25T11:12:07: Starting analysis of 143 modules
+2015-11-25T11:12:07: Analysis complete
+2015-11-25T11:12:07: Saving group "F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib"
+2015-11-25T11:12:08: End of group "F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib"
+2015-11-25T11:12:08: Start group "F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages" with 1 files
+2015-11-25T11:12:09: Parsing "easy_install" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\easy_install.py")
+2015-11-25T11:12:09: Parsing complete
+2015-11-25T11:12:09: Analyzing "easy_install"
+2015-11-25T11:12:09: Starting analysis of 1 modules
+2015-11-25T11:12:09: Analysis complete
+2015-11-25T11:12:09: Saving group "F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages"
+2015-11-25T11:12:09: End of group "F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages"
+2015-11-25T11:12:09: Start group "F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip" with 226 files
+2015-11-25T11:12:11: Parsing "pip.basecommand" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\basecommand.py")
+2015-11-25T11:12:11: Parsing "pip.baseparser" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\baseparser.py")
+2015-11-25T11:12:11: Parsing "pip.cmdoptions" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\cmdoptions.py")
+2015-11-25T11:12:11: Parsing "pip.download" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\download.py")
+2015-11-25T11:12:11: Parsing "pip.exceptions" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\exceptions.py")
+2015-11-25T11:12:11: Parsing "pip.index" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\index.py")
+2015-11-25T11:12:11: Parsing "pip.locations" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\locations.py")
+2015-11-25T11:12:11: Parsing "pip.pep425tags" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\pep425tags.py")
+2015-11-25T11:12:11: Parsing "pip.status_codes" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\status_codes.py")
+2015-11-25T11:12:11: Parsing "pip.wheel" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\wheel.py")
+2015-11-25T11:12:11: Parsing "pip" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\__init__.py")
+2015-11-25T11:12:11: Parsing "pip.__main__" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\__main__.py")
+2015-11-25T11:12:11: Parsing "pip.commands.completion" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\commands\completion.py")
+2015-11-25T11:12:11: Parsing "pip.commands.freeze" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\commands\freeze.py")
+2015-11-25T11:12:11: Parsing "pip.commands.help" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\commands\help.py")
+2015-11-25T11:12:11: Parsing "pip.commands.install" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\commands\install.py")
+2015-11-25T11:12:11: Parsing "pip.commands.list" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\commands\list.py")
+2015-11-25T11:12:11: Parsing "pip.commands.search" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\commands\search.py")
+2015-11-25T11:12:11: Parsing "pip.commands.show" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\commands\show.py")
+2015-11-25T11:12:11: Parsing "pip.commands.uninstall" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\commands\uninstall.py")
+2015-11-25T11:12:11: Parsing "pip.commands.unzip" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\commands\unzip.py")
+2015-11-25T11:12:11: Parsing "pip.commands.wheel" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\commands\wheel.py")
+2015-11-25T11:12:11: Parsing "pip.commands.zip" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\commands\zip.py")
+2015-11-25T11:12:11: Parsing "pip.commands" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\commands\__init__.py")
+2015-11-25T11:12:11: Parsing "pip.compat.dictconfig" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\compat\dictconfig.py")
+2015-11-25T11:12:11: Parsing "pip.compat" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\compat\__init__.py")
+2015-11-25T11:12:11: Parsing "pip.models.index" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\models\index.py")
+2015-11-25T11:12:11: Parsing "pip.models" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\models\__init__.py")
+2015-11-25T11:12:11: Parsing "pip.operations.freeze" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\operations\freeze.py")
+2015-11-25T11:12:11: Parsing "pip.operations" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\operations\__init__.py")
+2015-11-25T11:12:11: Parsing "pip.req.req_file" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\req\req_file.py")
+2015-11-25T11:12:11: Parsing "pip.req.req_install" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\req\req_install.py")
+2015-11-25T11:12:11: Parsing "pip.req.req_requirement" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\req\req_requirement.py")
+2015-11-25T11:12:11: Parsing "pip.req.req_set" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\req\req_set.py")
+2015-11-25T11:12:11: Parsing "pip.req.req_uninstall" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\req\req_uninstall.py")
+2015-11-25T11:12:11: Parsing "pip.req" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\req\__init__.py")
+2015-11-25T11:12:11: Parsing "pip.utils.appdirs" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\utils\appdirs.py")
+2015-11-25T11:12:11: Parsing "pip.utils.build" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\utils\build.py")
+2015-11-25T11:12:11: Parsing "pip.utils.deprecation" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\utils\deprecation.py")
+2015-11-25T11:12:11: Parsing "pip.utils.filesystem" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\utils\filesystem.py")
+2015-11-25T11:12:11: Parsing "pip.utils.logging" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\utils\logging.py")
+2015-11-25T11:12:11: Parsing "pip.utils.outdated" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\utils\outdated.py")
+2015-11-25T11:12:11: Parsing "pip.utils.ui" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\utils\ui.py")
+2015-11-25T11:12:11: Parsing "pip.utils" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\utils\__init__.py")
+2015-11-25T11:12:11: Parsing "pip.vcs.bazaar" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\vcs\bazaar.py")
+2015-11-25T11:12:11: Parsing "pip.vcs.git" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\vcs\git.py")
+2015-11-25T11:12:11: Parsing "pip.vcs.mercurial" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\vcs\mercurial.py")
+2015-11-25T11:12:11: Parsing "pip.vcs.subversion" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\vcs\subversion.py")
+2015-11-25T11:12:11: Parsing "pip.vcs" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\vcs\__init__.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.ipaddress" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\ipaddress.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.six" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\six.py")
+2015-11-25T11:12:11: Parsing "pip._vendor" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\__init__.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.cachecontrol.adapter" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\cachecontrol\adapter.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.cachecontrol.cache" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\cachecontrol\cache.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.cachecontrol.compat" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\cachecontrol\compat.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.cachecontrol.controller" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\cachecontrol\controller.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.cachecontrol.filewrapper" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\cachecontrol\filewrapper.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.cachecontrol.heuristics" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\cachecontrol\heuristics.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.cachecontrol.serialize" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\cachecontrol\serialize.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.cachecontrol.wrapper" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\cachecontrol\wrapper.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.cachecontrol" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\cachecontrol\__init__.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.cachecontrol.caches.file_cache" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\cachecontrol\caches\file_cache.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.cachecontrol.caches.redis_cache" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\cachecontrol\caches\redis_cache.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.cachecontrol.caches" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\cachecontrol\caches\__init__.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.certifi.core" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\certifi\core.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.certifi" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\certifi\__init__.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.certifi.__main__" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\certifi\__main__.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.colorama.ansi" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\colorama\ansi.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.colorama.ansitowin32" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\colorama\ansitowin32.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.colorama.initialise" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\colorama\initialise.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.colorama.win32" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\colorama\win32.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.colorama.winterm" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\colorama\winterm.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.colorama" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\colorama\__init__.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.distlib.compat" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\distlib\compat.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.distlib.database" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\distlib\database.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.distlib.index" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\distlib\index.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.distlib.locators" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\distlib\locators.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.distlib.manifest" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\distlib\manifest.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.distlib.markers" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\distlib\markers.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.distlib.metadata" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\distlib\metadata.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.distlib.resources" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\distlib\resources.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.distlib.scripts" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\distlib\scripts.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.distlib.util" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\distlib\util.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.distlib.version" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\distlib\version.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.distlib.wheel" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\distlib\wheel.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.distlib" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\distlib\__init__.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.distlib._backport.misc" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\distlib\_backport\misc.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.distlib._backport.shutil" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\distlib\_backport\shutil.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.distlib._backport.sysconfig" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\distlib\_backport\sysconfig.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.distlib._backport.tarfile" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\distlib\_backport\tarfile.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.distlib._backport" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\distlib\_backport\__init__.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.html5lib.constants" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\html5lib\constants.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.html5lib.html5parser" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\html5lib\html5parser.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.html5lib.ihatexml" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\html5lib\ihatexml.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.html5lib.inputstream" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\html5lib\inputstream.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.html5lib.sanitizer" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\html5lib\sanitizer.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.html5lib.tokenizer" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\html5lib\tokenizer.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.html5lib.utils" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\html5lib\utils.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.html5lib" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\html5lib\__init__.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.html5lib.filters.alphabeticalattributes" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\html5lib\filters\alphabeticalattributes.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.html5lib.filters.inject_meta_charset" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\html5lib\filters\inject_meta_charset.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.html5lib.filters.lint" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\html5lib\filters\lint.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.html5lib.filters.optionaltags" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\html5lib\filters\optionaltags.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.html5lib.filters.sanitizer" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\html5lib\filters\sanitizer.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.html5lib.filters.whitespace" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\html5lib\filters\whitespace.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.html5lib.filters._base" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\html5lib\filters\_base.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.html5lib.filters" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\html5lib\filters\__init__.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.html5lib.serializer.htmlserializer" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\html5lib\serializer\htmlserializer.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.html5lib.serializer" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\html5lib\serializer\__init__.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.html5lib.treeadapters.sax" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\html5lib\treeadapters\sax.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.html5lib.treeadapters" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\html5lib\treeadapters\__init__.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.html5lib.treebuilders.dom" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\html5lib\treebuilders\dom.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.html5lib.treebuilders.etree" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\html5lib\treebuilders\etree.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.html5lib.treebuilders.etree_lxml" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\html5lib\treebuilders\etree_lxml.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.html5lib.treebuilders._base" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\html5lib\treebuilders\_base.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.html5lib.treebuilders" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\html5lib\treebuilders\__init__.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.html5lib.treewalkers.dom" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\html5lib\treewalkers\dom.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.html5lib.treewalkers.etree" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\html5lib\treewalkers\etree.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.html5lib.treewalkers.genshistream" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\html5lib\treewalkers\genshistream.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.html5lib.treewalkers.lxmletree" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\html5lib\treewalkers\lxmletree.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.html5lib.treewalkers.pulldom" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\html5lib\treewalkers\pulldom.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.html5lib.treewalkers._base" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\html5lib\treewalkers\_base.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.html5lib.treewalkers" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\html5lib\treewalkers\__init__.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.html5lib.trie.datrie" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\html5lib\trie\datrie.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.html5lib.trie.py" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\html5lib\trie\py.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.html5lib.trie._base" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\html5lib\trie\_base.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.html5lib.trie" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\html5lib\trie\__init__.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.lockfile.linklockfile" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\lockfile\linklockfile.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.lockfile.mkdirlockfile" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\lockfile\mkdirlockfile.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.lockfile.pidlockfile" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\lockfile\pidlockfile.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.lockfile.sqlitelockfile" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\lockfile\sqlitelockfile.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.lockfile.symlinklockfile" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\lockfile\symlinklockfile.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.lockfile" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\lockfile\__init__.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.packaging.specifiers" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\packaging\specifiers.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.packaging.version" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\packaging\version.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.packaging._compat" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\packaging\_compat.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.packaging._structures" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\packaging\_structures.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.packaging.__about__" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\packaging\__about__.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.packaging" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\packaging\__init__.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.pkg_resources" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\pkg_resources\__init__.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.progress.bar" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\progress\bar.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.progress.counter" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\progress\counter.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.progress.helpers" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\progress\helpers.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.progress.spinner" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\progress\spinner.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.progress" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\progress\__init__.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.requests.adapters" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\requests\adapters.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.requests.api" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\requests\api.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.requests.auth" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\requests\auth.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.requests.certs" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\requests\certs.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.requests.compat" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\requests\compat.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.requests.cookies" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\requests\cookies.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.requests.exceptions" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\requests\exceptions.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.requests.hooks" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\requests\hooks.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.requests.models" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\requests\models.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.requests.sessions" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\requests\sessions.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.requests.status_codes" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\requests\status_codes.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.requests.structures" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\requests\structures.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.requests.utils" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\requests\utils.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.requests" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\requests\__init__.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.requests.packages" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\requests\packages\__init__.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.requests.packages.chardet.big5freq" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\requests\packages\chardet\big5freq.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.requests.packages.chardet.big5prober" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\requests\packages\chardet\big5prober.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.requests.packages.chardet.chardetect" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\requests\packages\chardet\chardetect.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.requests.packages.chardet.chardistribution" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\requests\packages\chardet\chardistribution.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.requests.packages.chardet.charsetgroupprober" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\requests\packages\chardet\charsetgroupprober.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.requests.packages.chardet.charsetprober" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\requests\packages\chardet\charsetprober.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.requests.packages.chardet.codingstatemachine" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\requests\packages\chardet\codingstatemachine.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.requests.packages.chardet.compat" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\requests\packages\chardet\compat.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.requests.packages.chardet.constants" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\requests\packages\chardet\constants.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.requests.packages.chardet.cp949prober" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\requests\packages\chardet\cp949prober.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.requests.packages.chardet.escprober" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\requests\packages\chardet\escprober.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.requests.packages.chardet.escsm" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\requests\packages\chardet\escsm.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.requests.packages.chardet.eucjpprober" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\requests\packages\chardet\eucjpprober.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.requests.packages.chardet.euckrfreq" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\requests\packages\chardet\euckrfreq.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.requests.packages.chardet.euckrprober" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\requests\packages\chardet\euckrprober.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.requests.packages.chardet.euctwfreq" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\requests\packages\chardet\euctwfreq.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.requests.packages.chardet.euctwprober" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\requests\packages\chardet\euctwprober.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.requests.packages.chardet.gb2312freq" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\requests\packages\chardet\gb2312freq.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.requests.packages.chardet.gb2312prober" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\requests\packages\chardet\gb2312prober.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.requests.packages.chardet.hebrewprober" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\requests\packages\chardet\hebrewprober.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.requests.packages.chardet.jisfreq" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\requests\packages\chardet\jisfreq.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.requests.packages.chardet.jpcntx" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\requests\packages\chardet\jpcntx.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.requests.packages.chardet.langbulgarianmodel" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\requests\packages\chardet\langbulgarianmodel.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.requests.packages.chardet.langcyrillicmodel" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\requests\packages\chardet\langcyrillicmodel.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.requests.packages.chardet.langgreekmodel" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\requests\packages\chardet\langgreekmodel.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.requests.packages.chardet.langhebrewmodel" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\requests\packages\chardet\langhebrewmodel.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.requests.packages.chardet.langhungarianmodel" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\requests\packages\chardet\langhungarianmodel.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.requests.packages.chardet.langthaimodel" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\requests\packages\chardet\langthaimodel.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.requests.packages.chardet.latin1prober" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\requests\packages\chardet\latin1prober.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.requests.packages.chardet.mbcharsetprober" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\requests\packages\chardet\mbcharsetprober.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.requests.packages.chardet.mbcsgroupprober" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\requests\packages\chardet\mbcsgroupprober.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.requests.packages.chardet.mbcssm" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\requests\packages\chardet\mbcssm.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.requests.packages.chardet.sbcharsetprober" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\requests\packages\chardet\sbcharsetprober.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.requests.packages.chardet.sbcsgroupprober" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\requests\packages\chardet\sbcsgroupprober.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.requests.packages.chardet.sjisprober" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\requests\packages\chardet\sjisprober.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.requests.packages.chardet.universaldetector" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\requests\packages\chardet\universaldetector.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.requests.packages.chardet.utf8prober" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\requests\packages\chardet\utf8prober.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.requests.packages.chardet" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\requests\packages\chardet\__init__.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.requests.packages.urllib3.connection" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\requests\packages\urllib3\connection.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.requests.packages.urllib3.connectionpool" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\requests\packages\urllib3\connectionpool.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.requests.packages.urllib3.exceptions" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\requests\packages\urllib3\exceptions.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.requests.packages.urllib3.fields" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\requests\packages\urllib3\fields.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.requests.packages.urllib3.filepost" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\requests\packages\urllib3\filepost.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.requests.packages.urllib3.poolmanager" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\requests\packages\urllib3\poolmanager.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.requests.packages.urllib3.request" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\requests\packages\urllib3\request.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.requests.packages.urllib3.response" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\requests\packages\urllib3\response.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.requests.packages.urllib3._collections" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\requests\packages\urllib3\_collections.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.requests.packages.urllib3" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\requests\packages\urllib3\__init__.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.requests.packages.urllib3.contrib.ntlmpool" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\requests\packages\urllib3\contrib\ntlmpool.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.requests.packages.urllib3.contrib.pyopenssl" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\requests\packages\urllib3\contrib\pyopenssl.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.requests.packages.urllib3.contrib" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\requests\packages\urllib3\contrib\__init__.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.requests.packages.urllib3.packages.ordered_dict" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\requests\packages\urllib3\packages\ordered_dict.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.requests.packages.urllib3.packages.six" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\requests\packages\urllib3\packages\six.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.requests.packages.urllib3.packages" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\requests\packages\urllib3\packages\__init__.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.requests.packages.urllib3.packages.ssl_match_hostname._implementation" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\requests\packages\urllib3\packages\ssl_match_hostname\_implementation.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.requests.packages.urllib3.packages.ssl_match_hostname" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\requests\packages\urllib3\packages\ssl_match_hostname\__init__.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.requests.packages.urllib3.util.connection" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\connection.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.requests.packages.urllib3.util.request" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\request.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.requests.packages.urllib3.util.response" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\response.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.requests.packages.urllib3.util.retry" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\retry.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.requests.packages.urllib3.util.ssl_" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\ssl_.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.requests.packages.urllib3.util.timeout" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\timeout.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.requests.packages.urllib3.util.url" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\url.py")
+2015-11-25T11:12:11: Parsing "pip._vendor.requests.packages.urllib3.util" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\__init__.py")
+2015-11-25T11:12:11: Parsing "pip._vendor._markerlib.markers" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\_markerlib\markers.py")
+2015-11-25T11:12:11: Parsing "pip._vendor._markerlib" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip\_vendor\_markerlib\__init__.py")
+2015-11-25T11:12:11: Parsing complete
+2015-11-25T11:12:11: Analyzing "pip.basecommand"
+2015-11-25T11:12:11: Analyzing "pip.baseparser"
+2015-11-25T11:12:11: Analyzing "pip.cmdoptions"
+2015-11-25T11:12:11: Analyzing "pip.download"
+2015-11-25T11:12:11: Analyzing "pip.exceptions"
+2015-11-25T11:12:11: Analyzing "pip.index"
+2015-11-25T11:12:11: Analyzing "pip.locations"
+2015-11-25T11:12:11: Analyzing "pip.pep425tags"
+2015-11-25T11:12:11: Analyzing "pip.status_codes"
+2015-11-25T11:12:11: Analyzing "pip.wheel"
+2015-11-25T11:12:11: Analyzing "pip"
+2015-11-25T11:12:11: Analyzing "pip.__main__"
+2015-11-25T11:12:11: Analyzing "pip.commands.completion"
+2015-11-25T11:12:11: Analyzing "pip.commands.freeze"
+2015-11-25T11:12:11: Analyzing "pip.commands.help"
+2015-11-25T11:12:11: Analyzing "pip.commands.install"
+2015-11-25T11:12:11: Analyzing "pip.commands.list"
+2015-11-25T11:12:11: Analyzing "pip.commands.search"
+2015-11-25T11:12:11: Analyzing "pip.commands.show"
+2015-11-25T11:12:11: Analyzing "pip.commands.uninstall"
+2015-11-25T11:12:11: Analyzing "pip.commands.unzip"
+2015-11-25T11:12:11: Analyzing "pip.commands.wheel"
+2015-11-25T11:12:11: Analyzing "pip.commands.zip"
+2015-11-25T11:12:11: Analyzing "pip.commands"
+2015-11-25T11:12:11: Analyzing "pip.compat.dictconfig"
+2015-11-25T11:12:11: Analyzing "pip.compat"
+2015-11-25T11:12:11: Analyzing "pip.models.index"
+2015-11-25T11:12:11: Analyzing "pip.models"
+2015-11-25T11:12:11: Analyzing "pip.operations.freeze"
+2015-11-25T11:12:11: Analyzing "pip.operations"
+2015-11-25T11:12:11: Analyzing "pip.req.req_file"
+2015-11-25T11:12:11: Analyzing "pip.req.req_install"
+2015-11-25T11:12:11: Analyzing "pip.req.req_requirement"
+2015-11-25T11:12:11: Analyzing "pip.req.req_set"
+2015-11-25T11:12:11: Analyzing "pip.req.req_uninstall"
+2015-11-25T11:12:11: Analyzing "pip.req"
+2015-11-25T11:12:11: Analyzing "pip.utils.appdirs"
+2015-11-25T11:12:11: Analyzing "pip.utils.build"
+2015-11-25T11:12:11: Analyzing "pip.utils.deprecation"
+2015-11-25T11:12:11: Analyzing "pip.utils.filesystem"
+2015-11-25T11:12:11: Analyzing "pip.utils.logging"
+2015-11-25T11:12:11: Analyzing "pip.utils.outdated"
+2015-11-25T11:12:11: Analyzing "pip.utils.ui"
+2015-11-25T11:12:11: Analyzing "pip.utils"
+2015-11-25T11:12:11: Analyzing "pip.vcs.bazaar"
+2015-11-25T11:12:11: Analyzing "pip.vcs.git"
+2015-11-25T11:12:11: Analyzing "pip.vcs.mercurial"
+2015-11-25T11:12:11: Analyzing "pip.vcs.subversion"
+2015-11-25T11:12:11: Analyzing "pip.vcs"
+2015-11-25T11:12:11: Analyzing "pip._vendor.ipaddress"
+2015-11-25T11:12:11: Analyzing "pip._vendor.six"
+2015-11-25T11:12:11: Analyzing "pip._vendor"
+2015-11-25T11:12:11: Analyzing "pip._vendor.cachecontrol.adapter"
+2015-11-25T11:12:11: Analyzing "pip._vendor.cachecontrol.cache"
+2015-11-25T11:12:11: Analyzing "pip._vendor.cachecontrol.compat"
+2015-11-25T11:12:11: Analyzing "pip._vendor.cachecontrol.controller"
+2015-11-25T11:12:11: Analyzing "pip._vendor.cachecontrol.filewrapper"
+2015-11-25T11:12:11: Analyzing "pip._vendor.cachecontrol.heuristics"
+2015-11-25T11:12:11: Analyzing "pip._vendor.cachecontrol.serialize"
+2015-11-25T11:12:11: Analyzing "pip._vendor.cachecontrol.wrapper"
+2015-11-25T11:12:11: Analyzing "pip._vendor.cachecontrol"
+2015-11-25T11:12:11: Analyzing "pip._vendor.cachecontrol.caches.file_cache"
+2015-11-25T11:12:11: Analyzing "pip._vendor.cachecontrol.caches.redis_cache"
+2015-11-25T11:12:11: Analyzing "pip._vendor.cachecontrol.caches"
+2015-11-25T11:12:11: Analyzing "pip._vendor.certifi.core"
+2015-11-25T11:12:11: Analyzing "pip._vendor.certifi"
+2015-11-25T11:12:11: Analyzing "pip._vendor.certifi.__main__"
+2015-11-25T11:12:11: Analyzing "pip._vendor.colorama.ansi"
+2015-11-25T11:12:11: Analyzing "pip._vendor.colorama.ansitowin32"
+2015-11-25T11:12:11: Analyzing "pip._vendor.colorama.initialise"
+2015-11-25T11:12:11: Analyzing "pip._vendor.colorama.win32"
+2015-11-25T11:12:11: Analyzing "pip._vendor.colorama.winterm"
+2015-11-25T11:12:11: Analyzing "pip._vendor.colorama"
+2015-11-25T11:12:11: Analyzing "pip._vendor.distlib.compat"
+2015-11-25T11:12:11: Analyzing "pip._vendor.distlib.database"
+2015-11-25T11:12:11: Analyzing "pip._vendor.distlib.index"
+2015-11-25T11:12:11: Analyzing "pip._vendor.distlib.locators"
+2015-11-25T11:12:11: Analyzing "pip._vendor.distlib.manifest"
+2015-11-25T11:12:11: Analyzing "pip._vendor.distlib.markers"
+2015-11-25T11:12:11: Analyzing "pip._vendor.distlib.metadata"
+2015-11-25T11:12:11: Analyzing "pip._vendor.distlib.resources"
+2015-11-25T11:12:11: Analyzing "pip._vendor.distlib.scripts"
+2015-11-25T11:12:11: Analyzing "pip._vendor.distlib.util"
+2015-11-25T11:12:11: Analyzing "pip._vendor.distlib.version"
+2015-11-25T11:12:11: Analyzing "pip._vendor.distlib.wheel"
+2015-11-25T11:12:11: Analyzing "pip._vendor.distlib"
+2015-11-25T11:12:11: Analyzing "pip._vendor.distlib._backport.misc"
+2015-11-25T11:12:11: Analyzing "pip._vendor.distlib._backport.shutil"
+2015-11-25T11:12:11: Analyzing "pip._vendor.distlib._backport.sysconfig"
+2015-11-25T11:12:11: Analyzing "pip._vendor.distlib._backport.tarfile"
+2015-11-25T11:12:11: Analyzing "pip._vendor.distlib._backport"
+2015-11-25T11:12:11: Analyzing "pip._vendor.html5lib.constants"
+2015-11-25T11:12:11: Analyzing "pip._vendor.html5lib.html5parser"
+2015-11-25T11:12:11: Analyzing "pip._vendor.html5lib.ihatexml"
+2015-11-25T11:12:11: Analyzing "pip._vendor.html5lib.inputstream"
+2015-11-25T11:12:11: Analyzing "pip._vendor.html5lib.sanitizer"
+2015-11-25T11:12:11: Analyzing "pip._vendor.html5lib.tokenizer"
+2015-11-25T11:12:11: Analyzing "pip._vendor.html5lib.utils"
+2015-11-25T11:12:11: Analyzing "pip._vendor.html5lib"
+2015-11-25T11:12:11: Analyzing "pip._vendor.html5lib.filters.alphabeticalattributes"
+2015-11-25T11:12:11: Analyzing "pip._vendor.html5lib.filters.inject_meta_charset"
+2015-11-25T11:12:11: Analyzing "pip._vendor.html5lib.filters.lint"
+2015-11-25T11:12:11: Analyzing "pip._vendor.html5lib.filters.optionaltags"
+2015-11-25T11:12:11: Analyzing "pip._vendor.html5lib.filters.sanitizer"
+2015-11-25T11:12:11: Analyzing "pip._vendor.html5lib.filters.whitespace"
+2015-11-25T11:12:11: Analyzing "pip._vendor.html5lib.filters._base"
+2015-11-25T11:12:11: Analyzing "pip._vendor.html5lib.filters"
+2015-11-25T11:12:11: Analyzing "pip._vendor.html5lib.serializer.htmlserializer"
+2015-11-25T11:12:11: Analyzing "pip._vendor.html5lib.serializer"
+2015-11-25T11:12:11: Analyzing "pip._vendor.html5lib.treeadapters.sax"
+2015-11-25T11:12:11: Analyzing "pip._vendor.html5lib.treeadapters"
+2015-11-25T11:12:11: Analyzing "pip._vendor.html5lib.treebuilders.dom"
+2015-11-25T11:12:11: Analyzing "pip._vendor.html5lib.treebuilders.etree"
+2015-11-25T11:12:11: Analyzing "pip._vendor.html5lib.treebuilders.etree_lxml"
+2015-11-25T11:12:11: Analyzing "pip._vendor.html5lib.treebuilders._base"
+2015-11-25T11:12:11: Analyzing "pip._vendor.html5lib.treebuilders"
+2015-11-25T11:12:11: Analyzing "pip._vendor.html5lib.treewalkers.dom"
+2015-11-25T11:12:11: Analyzing "pip._vendor.html5lib.treewalkers.etree"
+2015-11-25T11:12:11: Analyzing "pip._vendor.html5lib.treewalkers.genshistream"
+2015-11-25T11:12:11: Analyzing "pip._vendor.html5lib.treewalkers.lxmletree"
+2015-11-25T11:12:11: Analyzing "pip._vendor.html5lib.treewalkers.pulldom"
+2015-11-25T11:12:11: Analyzing "pip._vendor.html5lib.treewalkers._base"
+2015-11-25T11:12:11: Analyzing "pip._vendor.html5lib.treewalkers"
+2015-11-25T11:12:11: Analyzing "pip._vendor.html5lib.trie.datrie"
+2015-11-25T11:12:11: Analyzing "pip._vendor.html5lib.trie.py"
+2015-11-25T11:12:11: Analyzing "pip._vendor.html5lib.trie._base"
+2015-11-25T11:12:11: Analyzing "pip._vendor.html5lib.trie"
+2015-11-25T11:12:11: Analyzing "pip._vendor.lockfile.linklockfile"
+2015-11-25T11:12:11: Analyzing "pip._vendor.lockfile.mkdirlockfile"
+2015-11-25T11:12:11: Analyzing "pip._vendor.lockfile.pidlockfile"
+2015-11-25T11:12:11: Analyzing "pip._vendor.lockfile.sqlitelockfile"
+2015-11-25T11:12:11: Analyzing "pip._vendor.lockfile.symlinklockfile"
+2015-11-25T11:12:11: Analyzing "pip._vendor.lockfile"
+2015-11-25T11:12:11: Analyzing "pip._vendor.packaging.specifiers"
+2015-11-25T11:12:11: Analyzing "pip._vendor.packaging.version"
+2015-11-25T11:12:11: Analyzing "pip._vendor.packaging._compat"
+2015-11-25T11:12:11: Analyzing "pip._vendor.packaging._structures"
+2015-11-25T11:12:11: Analyzing "pip._vendor.packaging.__about__"
+2015-11-25T11:12:11: Analyzing "pip._vendor.packaging"
+2015-11-25T11:12:11: Analyzing "pip._vendor.pkg_resources"
+2015-11-25T11:12:11: Analyzing "pip._vendor.progress.bar"
+2015-11-25T11:12:11: Analyzing "pip._vendor.progress.counter"
+2015-11-25T11:12:11: Analyzing "pip._vendor.progress.helpers"
+2015-11-25T11:12:11: Analyzing "pip._vendor.progress.spinner"
+2015-11-25T11:12:11: Analyzing "pip._vendor.progress"
+2015-11-25T11:12:11: Analyzing "pip._vendor.requests.adapters"
+2015-11-25T11:12:11: Analyzing "pip._vendor.requests.api"
+2015-11-25T11:12:11: Analyzing "pip._vendor.requests.auth"
+2015-11-25T11:12:11: Analyzing "pip._vendor.requests.certs"
+2015-11-25T11:12:11: Analyzing "pip._vendor.requests.compat"
+2015-11-25T11:12:11: Analyzing "pip._vendor.requests.cookies"
+2015-11-25T11:12:11: Analyzing "pip._vendor.requests.exceptions"
+2015-11-25T11:12:11: Analyzing "pip._vendor.requests.hooks"
+2015-11-25T11:12:11: Analyzing "pip._vendor.requests.models"
+2015-11-25T11:12:11: Analyzing "pip._vendor.requests.sessions"
+2015-11-25T11:12:11: Analyzing "pip._vendor.requests.status_codes"
+2015-11-25T11:12:11: Analyzing "pip._vendor.requests.structures"
+2015-11-25T11:12:11: Analyzing "pip._vendor.requests.utils"
+2015-11-25T11:12:11: Analyzing "pip._vendor.requests"
+2015-11-25T11:12:11: Analyzing "pip._vendor.requests.packages"
+2015-11-25T11:12:11: Analyzing "pip._vendor.requests.packages.chardet.big5freq"
+2015-11-25T11:12:11: Analyzing "pip._vendor.requests.packages.chardet.big5prober"
+2015-11-25T11:12:11: Analyzing "pip._vendor.requests.packages.chardet.chardetect"
+2015-11-25T11:12:11: Analyzing "pip._vendor.requests.packages.chardet.chardistribution"
+2015-11-25T11:12:11: Analyzing "pip._vendor.requests.packages.chardet.charsetgroupprober"
+2015-11-25T11:12:11: Analyzing "pip._vendor.requests.packages.chardet.charsetprober"
+2015-11-25T11:12:11: Analyzing "pip._vendor.requests.packages.chardet.codingstatemachine"
+2015-11-25T11:12:11: Analyzing "pip._vendor.requests.packages.chardet.compat"
+2015-11-25T11:12:11: Analyzing "pip._vendor.requests.packages.chardet.constants"
+2015-11-25T11:12:11: Analyzing "pip._vendor.requests.packages.chardet.cp949prober"
+2015-11-25T11:12:11: Analyzing "pip._vendor.requests.packages.chardet.escprober"
+2015-11-25T11:12:11: Analyzing "pip._vendor.requests.packages.chardet.escsm"
+2015-11-25T11:12:11: Analyzing "pip._vendor.requests.packages.chardet.eucjpprober"
+2015-11-25T11:12:11: Analyzing "pip._vendor.requests.packages.chardet.euckrfreq"
+2015-11-25T11:12:11: Analyzing "pip._vendor.requests.packages.chardet.euckrprober"
+2015-11-25T11:12:11: Analyzing "pip._vendor.requests.packages.chardet.euctwfreq"
+2015-11-25T11:12:11: Analyzing "pip._vendor.requests.packages.chardet.euctwprober"
+2015-11-25T11:12:11: Analyzing "pip._vendor.requests.packages.chardet.gb2312freq"
+2015-11-25T11:12:11: Analyzing "pip._vendor.requests.packages.chardet.gb2312prober"
+2015-11-25T11:12:11: Analyzing "pip._vendor.requests.packages.chardet.hebrewprober"
+2015-11-25T11:12:11: Analyzing "pip._vendor.requests.packages.chardet.jisfreq"
+2015-11-25T11:12:11: Analyzing "pip._vendor.requests.packages.chardet.jpcntx"
+2015-11-25T11:12:11: Analyzing "pip._vendor.requests.packages.chardet.langbulgarianmodel"
+2015-11-25T11:12:11: Analyzing "pip._vendor.requests.packages.chardet.langcyrillicmodel"
+2015-11-25T11:12:11: Analyzing "pip._vendor.requests.packages.chardet.langgreekmodel"
+2015-11-25T11:12:11: Analyzing "pip._vendor.requests.packages.chardet.langhebrewmodel"
+2015-11-25T11:12:11: Analyzing "pip._vendor.requests.packages.chardet.langhungarianmodel"
+2015-11-25T11:12:11: Analyzing "pip._vendor.requests.packages.chardet.langthaimodel"
+2015-11-25T11:12:11: Analyzing "pip._vendor.requests.packages.chardet.latin1prober"
+2015-11-25T11:12:11: Analyzing "pip._vendor.requests.packages.chardet.mbcharsetprober"
+2015-11-25T11:12:11: Analyzing "pip._vendor.requests.packages.chardet.mbcsgroupprober"
+2015-11-25T11:12:11: Analyzing "pip._vendor.requests.packages.chardet.mbcssm"
+2015-11-25T11:12:11: Analyzing "pip._vendor.requests.packages.chardet.sbcharsetprober"
+2015-11-25T11:12:11: Analyzing "pip._vendor.requests.packages.chardet.sbcsgroupprober"
+2015-11-25T11:12:11: Analyzing "pip._vendor.requests.packages.chardet.sjisprober"
+2015-11-25T11:12:11: Analyzing "pip._vendor.requests.packages.chardet.universaldetector"
+2015-11-25T11:12:11: Analyzing "pip._vendor.requests.packages.chardet.utf8prober"
+2015-11-25T11:12:11: Analyzing "pip._vendor.requests.packages.chardet"
+2015-11-25T11:12:11: Analyzing "pip._vendor.requests.packages.urllib3.connection"
+2015-11-25T11:12:11: Analyzing "pip._vendor.requests.packages.urllib3.connectionpool"
+2015-11-25T11:12:11: Analyzing "pip._vendor.requests.packages.urllib3.exceptions"
+2015-11-25T11:12:11: Analyzing "pip._vendor.requests.packages.urllib3.fields"
+2015-11-25T11:12:11: Analyzing "pip._vendor.requests.packages.urllib3.filepost"
+2015-11-25T11:12:11: Analyzing "pip._vendor.requests.packages.urllib3.poolmanager"
+2015-11-25T11:12:11: Analyzing "pip._vendor.requests.packages.urllib3.request"
+2015-11-25T11:12:11: Analyzing "pip._vendor.requests.packages.urllib3.response"
+2015-11-25T11:12:11: Analyzing "pip._vendor.requests.packages.urllib3._collections"
+2015-11-25T11:12:11: Analyzing "pip._vendor.requests.packages.urllib3"
+2015-11-25T11:12:11: Analyzing "pip._vendor.requests.packages.urllib3.contrib.ntlmpool"
+2015-11-25T11:12:11: Analyzing "pip._vendor.requests.packages.urllib3.contrib.pyopenssl"
+2015-11-25T11:12:11: Analyzing "pip._vendor.requests.packages.urllib3.contrib"
+2015-11-25T11:12:11: Analyzing "pip._vendor.requests.packages.urllib3.packages.ordered_dict"
+2015-11-25T11:12:11: Analyzing "pip._vendor.requests.packages.urllib3.packages.six"
+2015-11-25T11:12:11: Analyzing "pip._vendor.requests.packages.urllib3.packages"
+2015-11-25T11:12:11: Analyzing "pip._vendor.requests.packages.urllib3.packages.ssl_match_hostname._implementation"
+2015-11-25T11:12:11: Analyzing "pip._vendor.requests.packages.urllib3.packages.ssl_match_hostname"
+2015-11-25T11:12:11: Analyzing "pip._vendor.requests.packages.urllib3.util.connection"
+2015-11-25T11:12:11: Analyzing "pip._vendor.requests.packages.urllib3.util.request"
+2015-11-25T11:12:11: Analyzing "pip._vendor.requests.packages.urllib3.util.response"
+2015-11-25T11:12:11: Analyzing "pip._vendor.requests.packages.urllib3.util.retry"
+2015-11-25T11:12:11: Analyzing "pip._vendor.requests.packages.urllib3.util.ssl_"
+2015-11-25T11:12:11: Analyzing "pip._vendor.requests.packages.urllib3.util.timeout"
+2015-11-25T11:12:11: Analyzing "pip._vendor.requests.packages.urllib3.util.url"
+2015-11-25T11:12:11: Analyzing "pip._vendor.requests.packages.urllib3.util"
+2015-11-25T11:12:11: Analyzing "pip._vendor._markerlib.markers"
+2015-11-25T11:12:11: Analyzing "pip._vendor._markerlib"
+2015-11-25T11:12:11: Starting analysis of 226 modules
+2015-11-25T11:12:16: Analysis complete
+2015-11-25T11:12:16: Saving group "F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip"
+2015-11-25T11:12:17: End of group "F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pip"
+2015-11-25T11:12:17: Start group "F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pkg_resources" with 8 files
+2015-11-25T11:12:18: Parsing "pkg_resources" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pkg_resources\__init__.py")
+2015-11-25T11:12:18: Parsing "pkg_resources._vendor" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pkg_resources\_vendor\__init__.py")
+2015-11-25T11:12:18: Parsing "pkg_resources._vendor.packaging.specifiers" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pkg_resources\_vendor\packaging\specifiers.py")
+2015-11-25T11:12:18: Parsing "pkg_resources._vendor.packaging.version" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pkg_resources\_vendor\packaging\version.py")
+2015-11-25T11:12:18: Parsing "pkg_resources._vendor.packaging._compat" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pkg_resources\_vendor\packaging\_compat.py")
+2015-11-25T11:12:18: Parsing "pkg_resources._vendor.packaging._structures" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pkg_resources\_vendor\packaging\_structures.py")
+2015-11-25T11:12:18: Parsing "pkg_resources._vendor.packaging.__about__" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pkg_resources\_vendor\packaging\__about__.py")
+2015-11-25T11:12:18: Parsing "pkg_resources._vendor.packaging" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pkg_resources\_vendor\packaging\__init__.py")
+2015-11-25T11:12:18: Parsing complete
+2015-11-25T11:12:18: Analyzing "pkg_resources"
+2015-11-25T11:12:18: Analyzing "pkg_resources._vendor"
+2015-11-25T11:12:18: Analyzing "pkg_resources._vendor.packaging.specifiers"
+2015-11-25T11:12:18: Analyzing "pkg_resources._vendor.packaging.version"
+2015-11-25T11:12:18: Analyzing "pkg_resources._vendor.packaging._compat"
+2015-11-25T11:12:18: Analyzing "pkg_resources._vendor.packaging._structures"
+2015-11-25T11:12:18: Analyzing "pkg_resources._vendor.packaging.__about__"
+2015-11-25T11:12:18: Analyzing "pkg_resources._vendor.packaging"
+2015-11-25T11:12:18: Starting analysis of 8 modules
+2015-11-25T11:12:18: Analysis complete
+2015-11-25T11:12:18: Saving group "F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pkg_resources"
+2015-11-25T11:12:18: End of group "F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\pkg_resources"
+2015-11-25T11:12:18: Start group "F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\setuptools" with 63 files
+2015-11-25T11:12:20: Parsing "setuptools.archive_util" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\setuptools\archive_util.py")
+2015-11-25T11:12:20: Parsing "setuptools.compat" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\setuptools\compat.py")
+2015-11-25T11:12:20: Parsing "setuptools.depends" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\setuptools\depends.py")
+2015-11-25T11:12:20: Parsing "setuptools.dist" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\setuptools\dist.py")
+2015-11-25T11:12:20: Parsing "setuptools.extension" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\setuptools\extension.py")
+2015-11-25T11:12:20: Parsing "setuptools.lib2to3_ex" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\setuptools\lib2to3_ex.py")
+2015-11-25T11:12:20: Parsing "setuptools.msvc9_support" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\setuptools\msvc9_support.py")
+2015-11-25T11:12:20: Parsing "setuptools.package_index" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\setuptools\package_index.py")
+2015-11-25T11:12:20: Parsing "setuptools.py26compat" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\setuptools\py26compat.py")
+2015-11-25T11:12:20: Parsing "setuptools.py27compat" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\setuptools\py27compat.py")
+2015-11-25T11:12:20: Parsing "setuptools.py31compat" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\setuptools\py31compat.py")
+2015-11-25T11:12:20: Parsing "setuptools.sandbox" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\setuptools\sandbox.py")
+2015-11-25T11:12:20: Parsing "setuptools.ssl_support" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\setuptools\ssl_support.py")
+2015-11-25T11:12:20: Parsing "setuptools.unicode_utils" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\setuptools\unicode_utils.py")
+2015-11-25T11:12:20: Parsing "setuptools.utils" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\setuptools\utils.py")
+2015-11-25T11:12:20: Parsing "setuptools.version" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\setuptools\version.py")
+2015-11-25T11:12:20: Parsing "setuptools.windows_support" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\setuptools\windows_support.py")
+2015-11-25T11:12:20: Parsing "setuptools" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\setuptools\__init__.py")
+2015-11-25T11:12:20: Parsing "setuptools.command.alias" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\setuptools\command\alias.py")
+2015-11-25T11:12:20: Parsing "setuptools.command.bdist_egg" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\setuptools\command\bdist_egg.py")
+2015-11-25T11:12:20: Parsing "setuptools.command.bdist_rpm" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\setuptools\command\bdist_rpm.py")
+2015-11-25T11:12:20: Parsing "setuptools.command.bdist_wininst" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\setuptools\command\bdist_wininst.py")
+2015-11-25T11:12:20: Parsing "setuptools.command.build_ext" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\setuptools\command\build_ext.py")
+2015-11-25T11:12:20: Parsing "setuptools.command.build_py" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\setuptools\command\build_py.py")
+2015-11-25T11:12:20: Parsing "setuptools.command.develop" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\setuptools\command\develop.py")
+2015-11-25T11:12:20: Parsing "setuptools.command.easy_install" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\setuptools\command\easy_install.py")
+2015-11-25T11:12:20: Parsing "setuptools.command.egg_info" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\setuptools\command\egg_info.py")
+2015-11-25T11:12:20: Parsing "setuptools.command.install" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\setuptools\command\install.py")
+2015-11-25T11:12:20: Parsing "setuptools.command.install_egg_info" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\setuptools\command\install_egg_info.py")
+2015-11-25T11:12:20: Parsing "setuptools.command.install_lib" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\setuptools\command\install_lib.py")
+2015-11-25T11:12:20: Parsing "setuptools.command.install_scripts" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\setuptools\command\install_scripts.py")
+2015-11-25T11:12:20: Parsing "setuptools.command.register" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\setuptools\command\register.py")
+2015-11-25T11:12:20: Parsing "setuptools.command.rotate" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\setuptools\command\rotate.py")
+2015-11-25T11:12:20: Parsing "setuptools.command.saveopts" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\setuptools\command\saveopts.py")
+2015-11-25T11:12:20: Parsing "setuptools.command.sdist" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\setuptools\command\sdist.py")
+2015-11-25T11:12:20: Parsing "setuptools.command.setopt" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\setuptools\command\setopt.py")
+2015-11-25T11:12:20: Parsing "setuptools.command.test" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\setuptools\command\test.py")
+2015-11-25T11:12:20: Parsing "setuptools.command.upload_docs" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\setuptools\command\upload_docs.py")
+2015-11-25T11:12:20: Parsing "setuptools.command" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\setuptools\command\__init__.py")
+2015-11-25T11:12:20: Parsing "setuptools.tests.contexts" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\setuptools\tests\contexts.py")
+2015-11-25T11:12:20: Parsing "setuptools.tests.environment" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\setuptools\tests\environment.py")
+2015-11-25T11:12:20: Parsing "setuptools.tests.fixtures" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\setuptools\tests\fixtures.py")
+2015-11-25T11:12:20: Parsing "setuptools.tests.py26compat" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\setuptools\tests\py26compat.py")
+2015-11-25T11:12:20: Parsing "setuptools.tests.server" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\setuptools\tests\server.py")
+2015-11-25T11:12:20: Parsing "setuptools.tests.test_bdist_egg" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\setuptools\tests\test_bdist_egg.py")
+2015-11-25T11:12:20: Parsing "setuptools.tests.test_build_ext" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\setuptools\tests\test_build_ext.py")
+2015-11-25T11:12:20: Parsing "setuptools.tests.test_develop" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\setuptools\tests\test_develop.py")
+2015-11-25T11:12:20: Parsing "setuptools.tests.test_dist_info" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\setuptools\tests\test_dist_info.py")
+2015-11-25T11:12:20: Parsing "setuptools.tests.test_easy_install" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\setuptools\tests\test_easy_install.py")
+2015-11-25T11:12:20: Parsing "setuptools.tests.test_egg_info" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\setuptools\tests\test_egg_info.py")
+2015-11-25T11:12:20: Parsing "setuptools.tests.test_find_packages" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\setuptools\tests\test_find_packages.py")
+2015-11-25T11:12:20: Parsing "setuptools.tests.test_integration" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\setuptools\tests\test_integration.py")
+2015-11-25T11:12:20: Parsing "setuptools.tests.test_markerlib" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\setuptools\tests\test_markerlib.py")
+2015-11-25T11:12:20: Parsing "setuptools.tests.test_msvc9compiler" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\setuptools\tests\test_msvc9compiler.py")
+2015-11-25T11:12:20: Parsing "setuptools.tests.test_packageindex" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\setuptools\tests\test_packageindex.py")
+2015-11-25T11:12:20: Parsing "setuptools.tests.test_resources" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\setuptools\tests\test_resources.py")
+2015-11-25T11:12:20: Parsing "setuptools.tests.test_sandbox" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\setuptools\tests\test_sandbox.py")
+2015-11-25T11:12:20: Parsing "setuptools.tests.test_sdist" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\setuptools\tests\test_sdist.py")
+2015-11-25T11:12:20: Parsing "setuptools.tests.test_test" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\setuptools\tests\test_test.py")
+2015-11-25T11:12:20: Parsing "setuptools.tests.test_upload_docs" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\setuptools\tests\test_upload_docs.py")
+2015-11-25T11:12:20: Parsing "setuptools.tests.test_windows_wrappers" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\setuptools\tests\test_windows_wrappers.py")
+2015-11-25T11:12:20: Parsing "setuptools.tests.textwrap" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\setuptools\tests\textwrap.py")
+2015-11-25T11:12:20: Parsing "setuptools.tests" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\setuptools\tests\__init__.py")
+2015-11-25T11:12:20: Parsing complete
+2015-11-25T11:12:20: Analyzing "setuptools.archive_util"
+2015-11-25T11:12:20: Analyzing "setuptools.compat"
+2015-11-25T11:12:20: Analyzing "setuptools.depends"
+2015-11-25T11:12:20: Analyzing "setuptools.dist"
+2015-11-25T11:12:20: Analyzing "setuptools.extension"
+2015-11-25T11:12:20: Analyzing "setuptools.lib2to3_ex"
+2015-11-25T11:12:20: Analyzing "setuptools.msvc9_support"
+2015-11-25T11:12:20: Analyzing "setuptools.package_index"
+2015-11-25T11:12:20: Analyzing "setuptools.py26compat"
+2015-11-25T11:12:20: Analyzing "setuptools.py27compat"
+2015-11-25T11:12:20: Analyzing "setuptools.py31compat"
+2015-11-25T11:12:20: Analyzing "setuptools.sandbox"
+2015-11-25T11:12:20: Analyzing "setuptools.ssl_support"
+2015-11-25T11:12:20: Analyzing "setuptools.unicode_utils"
+2015-11-25T11:12:20: Analyzing "setuptools.utils"
+2015-11-25T11:12:20: Analyzing "setuptools.version"
+2015-11-25T11:12:20: Analyzing "setuptools.windows_support"
+2015-11-25T11:12:20: Analyzing "setuptools"
+2015-11-25T11:12:20: Analyzing "setuptools.command.alias"
+2015-11-25T11:12:20: Analyzing "setuptools.command.bdist_egg"
+2015-11-25T11:12:20: Analyzing "setuptools.command.bdist_rpm"
+2015-11-25T11:12:20: Analyzing "setuptools.command.bdist_wininst"
+2015-11-25T11:12:20: Analyzing "setuptools.command.build_ext"
+2015-11-25T11:12:20: Analyzing "setuptools.command.build_py"
+2015-11-25T11:12:20: Analyzing "setuptools.command.develop"
+2015-11-25T11:12:20: Analyzing "setuptools.command.easy_install"
+2015-11-25T11:12:20: Analyzing "setuptools.command.egg_info"
+2015-11-25T11:12:20: Analyzing "setuptools.command.install"
+2015-11-25T11:12:20: Analyzing "setuptools.command.install_egg_info"
+2015-11-25T11:12:20: Analyzing "setuptools.command.install_lib"
+2015-11-25T11:12:20: Analyzing "setuptools.command.install_scripts"
+2015-11-25T11:12:20: Analyzing "setuptools.command.register"
+2015-11-25T11:12:20: Analyzing "setuptools.command.rotate"
+2015-11-25T11:12:20: Analyzing "setuptools.command.saveopts"
+2015-11-25T11:12:20: Analyzing "setuptools.command.sdist"
+2015-11-25T11:12:20: Analyzing "setuptools.command.setopt"
+2015-11-25T11:12:20: Analyzing "setuptools.command.test"
+2015-11-25T11:12:20: Analyzing "setuptools.command.upload_docs"
+2015-11-25T11:12:20: Analyzing "setuptools.command"
+2015-11-25T11:12:20: Analyzing "setuptools.tests.contexts"
+2015-11-25T11:12:20: Analyzing "setuptools.tests.environment"
+2015-11-25T11:12:20: Analyzing "setuptools.tests.fixtures"
+2015-11-25T11:12:20: Analyzing "setuptools.tests.py26compat"
+2015-11-25T11:12:20: Analyzing "setuptools.tests.server"
+2015-11-25T11:12:20: Analyzing "setuptools.tests.test_bdist_egg"
+2015-11-25T11:12:20: Analyzing "setuptools.tests.test_build_ext"
+2015-11-25T11:12:20: Analyzing "setuptools.tests.test_develop"
+2015-11-25T11:12:20: Analyzing "setuptools.tests.test_dist_info"
+2015-11-25T11:12:20: Analyzing "setuptools.tests.test_easy_install"
+2015-11-25T11:12:20: Analyzing "setuptools.tests.test_egg_info"
+2015-11-25T11:12:20: Analyzing "setuptools.tests.test_find_packages"
+2015-11-25T11:12:20: Analyzing "setuptools.tests.test_integration"
+2015-11-25T11:12:20: Analyzing "setuptools.tests.test_markerlib"
+2015-11-25T11:12:20: Analyzing "setuptools.tests.test_msvc9compiler"
+2015-11-25T11:12:20: Analyzing "setuptools.tests.test_packageindex"
+2015-11-25T11:12:20: Analyzing "setuptools.tests.test_resources"
+2015-11-25T11:12:20: Analyzing "setuptools.tests.test_sandbox"
+2015-11-25T11:12:20: Analyzing "setuptools.tests.test_sdist"
+2015-11-25T11:12:20: Analyzing "setuptools.tests.test_test"
+2015-11-25T11:12:20: Analyzing "setuptools.tests.test_upload_docs"
+2015-11-25T11:12:20: Analyzing "setuptools.tests.test_windows_wrappers"
+2015-11-25T11:12:20: Analyzing "setuptools.tests.textwrap"
+2015-11-25T11:12:20: Analyzing "setuptools.tests"
+2015-11-25T11:12:20: Starting analysis of 63 modules
+2015-11-25T11:12:21: Analysis complete
+2015-11-25T11:12:21: Saving group "F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\setuptools"
+2015-11-25T11:12:21: End of group "F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\setuptools"
+2015-11-25T11:12:21: Start group "F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\_markerlib" with 2 files
+2015-11-25T11:12:22: Parsing "_markerlib.markers" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\_markerlib\markers.py")
+2015-11-25T11:12:22: Parsing "_markerlib" ("F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\_markerlib\__init__.py")
+2015-11-25T11:12:22: Parsing complete
+2015-11-25T11:12:22: Analyzing "_markerlib.markers"
+2015-11-25T11:12:22: Analyzing "_markerlib"
+2015-11-25T11:12:22: Starting analysis of 2 modules
+2015-11-25T11:12:22: Analysis complete
+2015-11-25T11:12:22: Saving group "F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\_markerlib"
+2015-11-25T11:12:22: End of group "F:\GitHub\ip-sync\IpSync.ServerPy\env2.7\Lib\site-packages\_markerlib"
+2015-11-25T11:12:23: Deleting 0 files
+
+2015-11-25T17:51:48: Start analysis
+2015-11-25T17:51:48: [WARNING] Library was set explicitly - skipping path detection
+2015-11-25T17:51:48: IncludeModulesFromModulePath = win32com
+2015-11-25T17:51:48: Deleting 504 files
+2015-11-25T17:51:49: Scraping builtin modules
+2015-11-25T17:51:49: Command: F:\GitHub\ip-sync\src\IpSync.ServerPy\env2.7\Scripts\python.exe "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\PythonScraper.py" F:\GitHub\ip-sync\src\IpSync.ServerPy\env2.7\.ptvs\ "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\\"
+2015-11-25T17:51:49: Output
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\__builtin__.idb
+2015-11-25T17:51:49: [WARNING] Errors
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\PythonScraper.py", line 988, in <module>
+    write_module(builtin_name, outpath, res)
+  File "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\PythonScraper.py", line 972, in write_module
+    write_analysis(os.path.join(outpath, mod_name), analysis)
+  File "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\PythonScraper.py", line 943, in write_analysis
+    out_file = open(out_filename + '.idb', 'wb')
+IOError: [Errno 13] Permission denied: 'F:\\GitHub\\ip-sync\\src\\IpSync.ServerPy\\env2.7\\.ptvs\\__builtin__.idb'
+2015-11-25T17:51:49: [ERROR] Failed to scrape builtin modules (Exit Code: 1)
+2015-11-25T17:51:49: [ERROR] Analysis failed
+System.InvalidOperationException: Failed to scrape builtin modules
+   在 Microsoft.PythonTools.Analysis.PyLibAnalyzer.<Scrape>d__53.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 Microsoft.PythonTools.Analysis.PyLibAnalyzer.<RunWorker>d__31.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 Microsoft.PythonTools.Analysis.PyLibAnalyzer.<Run>d__30.MoveNext()
