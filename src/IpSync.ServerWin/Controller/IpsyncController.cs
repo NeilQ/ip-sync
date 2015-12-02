@@ -16,7 +16,7 @@ namespace Ipsync.Controller
         private Configuration _config;
 
         private Task _syncTask;
-        private CancellationTokenSource _cancellationTokenSource = new CancellationTokenSource();
+        private CancellationTokenSource _cancellationTokenSource;
 
 
         public void Start()
@@ -27,36 +27,48 @@ namespace Ipsync.Controller
         public void Reload()
         {
             _config = Configuration.Load();
-            if (!_config.Enabled) return;
-            if (_syncTask == null)
+
+            if (_syncTask != null && !_syncTask.IsCanceled && !_syncTask.IsCompleted)
             {
-                _syncTask = new Task(() => { SyncProcess(_cancellationTokenSource.Token); },
-                    _cancellationTokenSource.Token);
-                _syncTask.Start();
-            }
-            else
-            {
+                _currentIp = string.Empty;
                 _cancellationTokenSource.Cancel();
-                _syncTask.Start();
+                Logging.Log("Stopped.");
             }
+
+            if (!_config.Enabled) return;
+
+            _cancellationTokenSource = new CancellationTokenSource();
+            _syncTask = new Task(() => { SyncProcess(_cancellationTokenSource.Token); },
+                   _cancellationTokenSource.Token);
+            _syncTask.Start();
         }
 
         public void Stop()
         {
             if (_syncTask != null)
             {
+                _currentIp = string.Empty;
                 _cancellationTokenSource.Cancel();
             }
         }
 
         private void SyncProcess(CancellationToken ct)
         {
-            if (_config == null) return;
-            if (!Directory.Exists(_config.DropbopxPath)) return;
+            if (string.IsNullOrEmpty(_config?.DropbopxPath))
+            {
+                Logging.Log("Error: Dropbox path not configured.");
+                return;
+            }
+            if (!Directory.Exists(_config.DropbopxPath))
+            {
+                Logging.Log("Error: Dropbox path not exists.");
+                return;
+            };
             var ipsyncFolder = $"{_config.DropbopxPath}\\ipsync-{Environment.MachineName}";
             var ipsyncFile = $"{ipsyncFolder}\\ip.txt";
             if (!Directory.Exists(ipsyncFolder)) Directory.CreateDirectory(ipsyncFolder);
 
+            Logging.Log("Started.");
             while (true)
             {
                 ct.ThrowIfCancellationRequested();
@@ -68,6 +80,7 @@ namespace Ipsync.Controller
                 }
                 if (newIp != _currentIp)
                 {
+                    Logging.Log($"ip: {newIp}");
                     _currentIp = newIp;
                     File.WriteAllText(ipsyncFile, $"{newIp}{Environment.NewLine}{DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss")}");
                 }

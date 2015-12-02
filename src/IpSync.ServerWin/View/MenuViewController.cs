@@ -45,7 +45,7 @@ namespace Ipsync.View
             var config = Configuration.Load();
             _enableItem.Checked = config.Enabled;
             _autoStartupItem.Checked = AutoStartup.Check();
-            if (!config.Initialized)
+            if (!config.Initialized || string.IsNullOrEmpty(config.DropbopxPath))
             {
                 ShowConfigForm();
             }

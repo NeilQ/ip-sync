@@ -37,9 +37,10 @@ namespace Ipsync
                 }
                 Directory.SetCurrentDirectory(Application.StartupPath);
 
-#if !DEBUG
+                //#if !DEBUG
                 Logging.OpenLogFile();
-#endif
+                //#endif
+
                 var controller = new IpsyncController();
                 var viewController = new MenuViewController(controller);
 
