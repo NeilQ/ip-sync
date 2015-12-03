@@ -30,9 +30,7 @@ namespace Ipsync.Controller
 
             if (_syncTask != null && !_syncTask.IsCanceled && !_syncTask.IsCompleted)
             {
-                _currentIp = string.Empty;
                 _cancellationTokenSource.Cancel();
-                Logging.Log("Stopped.");
             }
 
             if (!_config.Enabled) return;
@@ -47,7 +45,6 @@ namespace Ipsync.Controller
         {
             if (_syncTask != null)
             {
-                _currentIp = string.Empty;
                 _cancellationTokenSource.Cancel();
             }
         }
@@ -71,19 +68,30 @@ namespace Ipsync.Controller
             Logging.Log("Started.");
             while (true)
             {
-                ct.ThrowIfCancellationRequested();
-                var newIp = RequestIp();
-                if (string.IsNullOrEmpty(newIp))
+                try
                 {
-                    Thread.Sleep(1000);
-                    continue;
+                    ct.ThrowIfCancellationRequested();
+                    var newIp = RequestIp();
+                    if (string.IsNullOrEmpty(newIp))
+                    {
+                        Thread.Sleep(1000);
+                        continue;
+                    }
+                    if (newIp != _currentIp)
+                    {
+                        Logging.Log($"ip: {newIp}");
+                        _currentIp = newIp;
+                        File.WriteAllText(ipsyncFile,
+                            $"{newIp}{Environment.NewLine}{DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss")}");
+                    }
                 }
-                if (newIp != _currentIp)
+                catch (OperationCanceledException)
                 {
-                    Logging.Log($"ip: {newIp}");
-                    _currentIp = newIp;
-                    File.WriteAllText(ipsyncFile, $"{newIp}{Environment.NewLine}{DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss")}");
+                    Logging.Log("Stopped");
+                    _currentIp = string.Empty;
+                    return;
                 }
+
             }
         }
 

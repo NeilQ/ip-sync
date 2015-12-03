@@ -21,6 +21,7 @@ namespace Ipsync.View
         private MenuItem _autoStartupItem;
         private MenuItem _aboutItem;
         private MenuItem _exitItem;
+        private MenuItem _showLogsItem;
 
         private ConfigForm configForm;
 
@@ -67,8 +68,9 @@ namespace Ipsync.View
                 new MenuItem("-"),
                 _configItem = CreateMenuItem("Config", Config_click),
                 _autoStartupItem = CreateMenuItem("Start on Boot", AutoStartup_click),
-                _aboutItem = CreateMenuItem("About...", About_click),
+                _showLogsItem = CreateMenuItem("Show logs...", ShowLogs_click),
                 new MenuItem("-"),
+                _aboutItem = CreateMenuItem("About...", About_click),
                 _exitItem = CreateMenuItem("Exit", Exit_click)
             });
         }
@@ -124,6 +126,11 @@ namespace Ipsync.View
             _enableItem.Checked = !_enableItem.Checked;
             _controller.ToggoleEnable(_enableItem.Checked);
             UpdateTrayIcon();
+        }
+
+        private void ShowLogs_click(object sender, EventArgs e)
+        {
+            new LogForm(Logging.LogFile).Show();
         }
 
         private void Exit_click(object sender, EventArgs e)
