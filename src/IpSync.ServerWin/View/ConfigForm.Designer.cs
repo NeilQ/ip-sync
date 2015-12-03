@@ -33,7 +33,10 @@
             this.BrowseButton = new System.Windows.Forms.Button();
             this.OkButton = new System.Windows.Forms.Button();
             this.CancelButton = new System.Windows.Forms.Button();
+            this.DelaySecondsNum = new System.Windows.Forms.NumericUpDown();
+            this.DelayLabel = new System.Windows.Forms.Label();
             this.groupBox1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.DelaySecondsNum)).BeginInit();
             this.SuspendLayout();
             // 
             // groupBox1
@@ -75,7 +78,7 @@
             // 
             this.OkButton.BackColor = System.Drawing.SystemColors.Window;
             this.OkButton.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.OkButton.Location = new System.Drawing.Point(208, 117);
+            this.OkButton.Location = new System.Drawing.Point(221, 148);
             this.OkButton.Name = "OkButton";
             this.OkButton.Size = new System.Drawing.Size(75, 37);
             this.OkButton.TabIndex = 1;
@@ -87,13 +90,50 @@
             // 
             this.CancelButton.BackColor = System.Drawing.SystemColors.Window;
             this.CancelButton.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.CancelButton.Location = new System.Drawing.Point(295, 117);
+            this.CancelButton.Location = new System.Drawing.Point(308, 148);
             this.CancelButton.Name = "CancelButton";
             this.CancelButton.Size = new System.Drawing.Size(75, 38);
             this.CancelButton.TabIndex = 2;
             this.CancelButton.Text = "Cancel";
             this.CancelButton.UseVisualStyleBackColor = false;
             this.CancelButton.Click += new System.EventHandler(this.CancelButton_Click);
+            // 
+            // DelaySecondsNum
+            // 
+            this.DelaySecondsNum.Increment = new decimal(new int[] {
+            10,
+            0,
+            0,
+            0});
+            this.DelaySecondsNum.Location = new System.Drawing.Point(181, 103);
+            this.DelaySecondsNum.Maximum = new decimal(new int[] {
+            3600,
+            0,
+            0,
+            0});
+            this.DelaySecondsNum.Minimum = new decimal(new int[] {
+            1,
+            0,
+            0,
+            0});
+            this.DelaySecondsNum.Name = "DelaySecondsNum";
+            this.DelaySecondsNum.Size = new System.Drawing.Size(102, 27);
+            this.DelaySecondsNum.TabIndex = 3;
+            this.DelaySecondsNum.ThousandsSeparator = true;
+            this.DelaySecondsNum.Value = new decimal(new int[] {
+            1,
+            0,
+            0,
+            0});
+            // 
+            // DelayLabel
+            // 
+            this.DelayLabel.AutoSize = true;
+            this.DelayLabel.Location = new System.Drawing.Point(25, 105);
+            this.DelayLabel.Name = "DelayLabel";
+            this.DelayLabel.Size = new System.Drawing.Size(109, 20);
+            this.DelayLabel.TabIndex = 4;
+            this.DelayLabel.Text = "Delay Seconds:";
             // 
             // ConfigForm
             // 
@@ -102,7 +142,9 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Dpi;
             this.AutoSize = true;
             this.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-            this.ClientSize = new System.Drawing.Size(414, 198);
+            this.ClientSize = new System.Drawing.Size(414, 205);
+            this.Controls.Add(this.DelayLabel);
+            this.Controls.Add(this.DelaySecondsNum);
             this.Controls.Add(this.CancelButton);
             this.Controls.Add(this.OkButton);
             this.Controls.Add(this.groupBox1);
@@ -116,7 +158,9 @@
             this.Text = "Edit Config";
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.DelaySecondsNum)).EndInit();
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
@@ -127,5 +171,7 @@
         private System.Windows.Forms.Button BrowseButton;
         private System.Windows.Forms.Button OkButton;
         private System.Windows.Forms.Button CancelButton;
+        private System.Windows.Forms.NumericUpDown DelaySecondsNum;
+        private System.Windows.Forms.Label DelayLabel;
     }
 }

@@ -7,9 +7,21 @@ namespace Ipsync.Model
     [Serializable]
     public class Configuration
     {
+        private int _delaySeconds;
         public string DropbopxPath { get; set; }
 
         public bool Enabled { get; set; }
+
+        public int DelaySeconds
+        {
+            get
+            {
+                if (_delaySeconds <= 0)
+                    _delaySeconds = 30;
+                return _delaySeconds;
+            }
+            set { _delaySeconds = value; }
+        }
 
         public bool Initialized { get; private set; }
 

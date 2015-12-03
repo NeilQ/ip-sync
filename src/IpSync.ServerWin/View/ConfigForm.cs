@@ -24,7 +24,7 @@ namespace Ipsync.View
 
         private void OkButton_Click(object sender, EventArgs e)
         {
-            _controller.SaveDropboxPath(txtPath.Text);
+            _controller.SaveConfig(txtPath.Text, (int)DelaySecondsNum.Value);
             Close();
         }
 
@@ -41,6 +41,7 @@ namespace Ipsync.View
         {
             var config = Configuration.Load();
             txtPath.Text = config.DropbopxPath;
+            DelaySecondsNum.Value = config.DelaySeconds;
         }
     }
 }

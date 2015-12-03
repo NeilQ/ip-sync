@@ -74,7 +74,7 @@ namespace Ipsync.Controller
                     var newIp = RequestIp();
                     if (string.IsNullOrEmpty(newIp))
                     {
-                        Thread.Sleep(1000);
+                        Thread.Sleep(_config.DelaySeconds * 1000);
                         continue;
                     }
                     if (newIp != _currentIp)
@@ -125,9 +125,10 @@ namespace Ipsync.Controller
             SaveConfig(_config);
         }
 
-        public void SaveDropboxPath(string path)
+        public void SaveConfig(string path, int delaySeconds)
         {
             _config.DropbopxPath = path;
+            _config.DelaySeconds = delaySeconds;
             SaveConfig(_config);
         }
 
