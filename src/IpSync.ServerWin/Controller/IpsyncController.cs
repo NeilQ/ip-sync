@@ -2,11 +2,9 @@
 using System;
 using System.IO;
 using System.Net;
-using System.Net.Http;
 using System.Threading;
 using System.Threading.Tasks;
 using Ipsync.Model;
-using Simple.Json;
 
 namespace Ipsync.Controller
 {
@@ -90,6 +88,7 @@ namespace Ipsync.Controller
                         var temp = Volatile.Read(ref IpChanged);
                         temp?.Invoke(this, new EventArgs());
                     }
+                    Thread.Sleep(_config.DelaySeconds * 1000);
                 }
                 catch (OperationCanceledException)
                 {
@@ -107,8 +106,8 @@ namespace Ipsync.Controller
                 using (var client = new WebClient())
                 {
                     var content = client.DownloadString(Constants.IP_API_URL);
-                    var ipModel = JsonSerializer.Default.ParseJson<IpModel>(content);
-                    var ip = ipModel?.Ip;
+                    var ipModel = SimpleJson.SimpleJson.DeserializeObject<IpModel>(content);
+                    var ip = ipModel?.ip;
                     return ip;
                 }
             }
@@ -142,7 +141,7 @@ namespace Ipsync.Controller
 
         public class IpModel
         {
-            public string Ip { get; set; }
+            public string ip { get; set; }
         }
     }
 }

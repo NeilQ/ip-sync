@@ -1,6 +1,5 @@
 ﻿using System;
 using System.IO;
-using Simple.Json;
 
 namespace Ipsync.Model
 {
@@ -30,7 +29,7 @@ namespace Ipsync.Model
             try
             {
                 var configContent = File.ReadAllText(Constants.CONFIG_FILENAME);
-                var config = JsonSerializer.Default.ParseJson<Configuration>(configContent);
+                var config = SimpleJson.SimpleJson.DeserializeObject<Configuration>(configContent);
                 config.Initialized = true;
                 return config;
             }
@@ -50,7 +49,7 @@ namespace Ipsync.Model
             {
                 using (StreamWriter sw = new StreamWriter(File.Open(Constants.CONFIG_FILENAME, FileMode.Create)))
                 {
-                    string jsonString = JsonSerializer.Default.ToJson(config);
+                    string jsonString = SimpleJson.SimpleJson.SerializeObject(config);
                     sw.Write(jsonString);
                     sw.Flush();
                 }

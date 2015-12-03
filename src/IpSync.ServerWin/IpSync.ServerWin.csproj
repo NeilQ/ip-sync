@@ -33,14 +33,6 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="Simple.Json, Version=1.0.0.3, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\Simple.Json.1.0.0.3\lib\net45\Simple.Json.dll</HintPath>
-      <Private>True</Private>
-    </Reference>
-    <Reference Include="Simple.Json.WebApi, Version=1.0.0.3, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\Simple.Json.1.0.0.3\lib\net45\Simple.Json.WebApi.dll</HintPath>
-      <Private>True</Private>
-    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -54,6 +46,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="3rd\SimpleJson.cs" />
     <Compile Include="Constants.cs" />
     <Compile Include="Controller\AutoStartup.cs" />
     <Compile Include="Controller\IpsyncController.cs" />
@@ -91,7 +84,6 @@
     <EmbeddedResource Include="View\LogForm.resx">
       <DependentUpon>LogForm.cs</DependentUpon>
     </EmbeddedResource>
-    <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
