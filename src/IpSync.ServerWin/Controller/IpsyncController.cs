@@ -12,12 +12,15 @@ namespace Ipsync.Controller
 {
     public class IpsyncController
     {
-        private string _currentIp;
+        public string CurrentIp { get; private set; }
+
         private Configuration _config;
 
         private Task _syncTask;
         private CancellationTokenSource _cancellationTokenSource;
 
+        public event EventHandler ConfigChanged;
+        public event EventHandler IpChanged;
 
         public void Start()
         {
@@ -77,21 +80,23 @@ namespace Ipsync.Controller
                         Thread.Sleep(_config.DelaySeconds * 1000);
                         continue;
                     }
-                    if (newIp != _currentIp)
+                    if (newIp != CurrentIp)
                     {
                         Logging.Log($"ip: {newIp}");
-                        _currentIp = newIp;
+                        CurrentIp = newIp;
                         File.WriteAllText(ipsyncFile,
                             $"{newIp}{Environment.NewLine}{DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss")}");
+
+                        var temp = Volatile.Read(ref IpChanged);
+                        temp?.Invoke(this, new EventArgs());
                     }
                 }
                 catch (OperationCanceledException)
                 {
-                    Logging.Log("Stopped");
-                    _currentIp = string.Empty;
+                    Logging.Log("Stopped. ");
+                    CurrentIp = string.Empty;
                     return;
                 }
-
             }
         }
 
@@ -117,6 +122,9 @@ namespace Ipsync.Controller
         {
             Configuration.Save(newConfig);
             Reload();
+
+            var temp = Volatile.Read(ref ConfigChanged);
+            temp?.Invoke(this, new EventArgs());
         }
 
         public void ToggoleEnable(bool enabled)

@@ -29,21 +29,35 @@ namespace Ipsync.View
         {
             _controller = controller;
             LoadMenu();
+            var config = Configuration.Load();
 
             _notifyIcon = new NotifyIcon
             {
                 Visible = true,
                 ContextMenu = _contenxMenu
             };
-            UpdateTrayIcon();
+            UpdateTrayIcon(config);
             _notifyIcon.MouseDoubleClick += NotifyIcon_MouseDoubleClick;
 
-            LoadConfiguration();
+            LoadConfiguration(config);
+            UpdateTrayText(config);
+
+            controller.ConfigChanged += Controller_ConfigChanged;
+            controller.IpChanged += Controller_IpChanged;
         }
 
-        private void LoadConfiguration()
+        private void Controller_IpChanged(object sender, EventArgs e)
         {
-            var config = Configuration.Load();
+            UpdateTrayText(Configuration.Load());
+        }
+
+        private void Controller_ConfigChanged(object sender, EventArgs e)
+        {
+            UpdateTrayText(Configuration.Load());
+        }
+
+        private void LoadConfiguration(Configuration config)
+        {
             _enableItem.Checked = config.Enabled;
             _autoStartupItem.Checked = AutoStartup.Check();
             if (!config.Initialized || string.IsNullOrEmpty(config.DropbopxPath))
@@ -80,11 +94,9 @@ namespace Ipsync.View
             return new MenuItem(text, click);
         }
 
-        private void UpdateTrayIcon()
+        private void UpdateTrayIcon(Configuration config)
         {
             var icon = Resources.icon76;
-
-            var config = Configuration.Load();
             if (!config.Enabled)
             {
                 var iconCopy = new Bitmap(icon);
@@ -99,6 +111,12 @@ namespace Ipsync.View
                 icon = iconCopy;
             }
             _notifyIcon.Icon = Icon.FromHandle(icon.GetHicon());
+        }
+
+        private void UpdateTrayText(Configuration config)
+        {
+            var ip = string.IsNullOrEmpty(_controller.CurrentIp) ? "loading..." : _controller.CurrentIp;
+            _notifyIcon.Text = $"Ipsync \n{(config.Enabled ? ("Stared: " + ip) : "Stopped")}";
         }
 
         private void ShowConfigForm()
@@ -125,7 +143,7 @@ namespace Ipsync.View
         {
             _enableItem.Checked = !_enableItem.Checked;
             _controller.ToggoleEnable(_enableItem.Checked);
-            UpdateTrayIcon();
+            UpdateTrayIcon(Configuration.Load());
         }
 
         private void ShowLogs_click(object sender, EventArgs e)
