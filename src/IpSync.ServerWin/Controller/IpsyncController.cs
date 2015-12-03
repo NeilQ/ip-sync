@@ -93,7 +93,7 @@ namespace Ipsync.Controller
                 }
                 catch (OperationCanceledException)
                 {
-                    Logging.Log("Stopped. ");
+                    //Logging.Log("Stopped. ");
                     CurrentIp = string.Empty;
                     return;
                 }
